@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+<div class="post">
+  <div class="post-info">
+    <h3 class="post-title"><a href="{{page.url}}">{{page.title}}</a></h3>
+    <time class="post-time">{{page.author}} on {{page.date | date: "%B %d, %Y" }}</time>
+  </div>
+
+  {{ content }}
+
+</div>

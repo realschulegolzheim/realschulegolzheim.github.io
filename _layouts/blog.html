@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include meta_tags.html %}
+    <link rel="alternate" type="application/rss+xml" title="Ionic Framework Blog" href="{{ site.url }}/feed.xml">
+    <title>{{page.title}}</title>
+    {% include head_includes.html %}
+  </head>
+
+  <body class="blog-page {{page.body_css}}">
+    <div id="blog-wrapper">
+      <div id="posts">
+        {{ content }}
+      </div>
+    </div>
+	
+    <footer class="footer">
+      <p>
+      </p>
+    </footer>
+
+    {% include base_scripts.html %}
+
+  </body>
+</html>

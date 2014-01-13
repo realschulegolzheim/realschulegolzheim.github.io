@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include meta_tags.html %}
+    <title>{{page.title}}</title>
+    {% include head_includes.html %}
+  </head>
+
+  <body class="full-page {{page.body_css}}">
+
+    {% include nav_links.html %}
+
+    <div class="container content-container">
+      {{ content }}
+    </div>
+	
+    {% include footer.html %}
+
+    {% include base_scripts.html %}
+
+  </body>
+</html>

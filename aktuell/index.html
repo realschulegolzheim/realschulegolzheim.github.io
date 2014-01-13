@@ -1,0 +1,33 @@
+---
+layout: blog
+title: "Ionic Blog"
+---
+
+{% for post in site.posts %}
+<div class="post">
+  <div class="post-info">
+    <h3 class="post-title"><a href="{{post.url}}">{{post.title}}</a></h3>
+    <time class="post-time">By {{post.author}} on {{post.date | date: "%B %d, %Y" }}</time>
+    <div class="post-social">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{post.title}}" data-url="http://ionicframework.com{{post.url}}" data-via="ionicframework" data-related="ionicframework">Tweet</a>
+      <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+      </script>
+    </div>
+  </div>
+  {{post.content}}
+  <hr>
+</div>
+
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Newer</a>
+  {% endif %}
+  <!--<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Older</a>
+  {% endif %}
+</div>
