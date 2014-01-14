@@ -12,8 +12,8 @@ Die Übersicht „Unsere Schule auf einen Blick“ kann –am Küchenschrank ang
 
 Darüber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt sich, sie regelmäßig zu besuchen, weil dort auch tagesaktuelle Schul-Ereignisse, Ankündigungen und Rückblicke zu lesen sind! Vor allem soll sie einen tiefen Einblick in den Schulalltag und seine Hintergründe geben... (mehr in den beiden untenstehenden Dokumenten).
 
-- [Elternbegrüßung](res/elternbegruessung.pdf)
-- [Wichtige Kurz-Infos zum Ausdruck](res/elternbogen.pdf)
+- [<i class="fa fa-cloud-download"></i> Elternbegrüßung](res/elternbegruessung.pdf)
+- [<i class="fa fa-cloud-download"></i> Wichtige Kurz-Infos zum Ausdruck](res/elternbogen.pdf)
 
 <!-- 
 Am Tag der offenen Tür am 21. Januar 2012 informierte die Schulleitung die Eltern gruppenweise in der Aula, anschließend wurden diese Gruppen von Kollegen, Schülern und Eltern durch das Haus geführt. Dabei war Gelegenheit zur Unterrichtsmitschau in der Orientierungstufe, bevorzugt in Deutsch, Mathematik und Englisch.

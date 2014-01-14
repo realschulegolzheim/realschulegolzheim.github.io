@@ -9,4 +9,4 @@ published: true
 - Von „Alleinerziehend“ über „Handy in der Schule“ bis „Zentrale Abschlussprüfungen“ (Link des Jugendamtes Düsseldorf): www.duesseldorf.de
 - Zum Thema Mobbing: www.schueler-gegen-mobbing.de und www.helles-koepfchen.de
 - Zum Thema Jugendschutz: www.helles-koepfchen.de
-- Mein Kind hat geklaut - was nun? [Fachstelle Kinderdelinquenz Düsseldorf](mailto:jgh@duesseldorf.de)
+- Mein Kind hat geklaut - was nun? [<i class="fa fa-envelope-o"></i> Fachstelle Kinderdelinquenz Düsseldorf](mailto:jgh@duesseldorf.de)
