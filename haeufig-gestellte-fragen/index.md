@@ -1,6 +1,6 @@
 ---
 layout: schule
-title:  "FAQ"
+title:  "Häufig gestellte Fragen"
 published: true
 ---
 
