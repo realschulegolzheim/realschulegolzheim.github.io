@@ -4,10 +4,7 @@ title:  "Schul-Check"
 published: true
 ---
 
-
-
-
-
+# Schul-Check
 
 ## BerufeBörse 2012 mit erfreulicher Resonanz
 
@@ -68,15 +65,17 @@ Diese Berufe wurden vorgestellt:
 
 ## Die Berichte der AG Externe Kooperationspartner
 
-Einmal im Monat trifft sich die AG Ex, um die BerufeBörse vorzubereiten. Die Einzelheiten sind in den Kurzberichten nachzulesen:
+Einmal im Monat trifft sich die AG "Externe Kooperationspartner", um die BerufeBörse vorzubereiten. 
 
-- Ergebnisprotokoll des AG-Treffens vom 18.4.2012
-- Ergebnisprotokoll des AG-Treffens vom 22.2.2012
-- Ergebnisprotokoll des AG-Treffens vom 7.12.2011
-- Ergebnisprotokoll des AG-Treffens vom 12.10.2011
-- Ergebnisprotokoll des AG-Treffens vom 29.3.2011
-- Ergebnisprotokoll des AG-Treffens vom 1.3.2011
-- Ergebnisprotokoll des AG-Treffens vom 24.1.2011
-- Zwischenbericht der AG/Bestandsaufnahme für die Evaluation
-- Ergebnisprotokoll des AG-Treffens vom 28.6.2010 
-- Ergebnisprotokoll der neuen AG beim Workshop im Mai 2010
+Die Einzelheiten sind in den Kurzberichten nachzulesen:
+
+- [Ergebnisprotokoll des AG-Treffens vom 18.4.2012](res/20120418-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 22.2.2012](res/20120222-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 7.12.2011](res/20111207-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 12.10.2011](res/20111012-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 29.3.2011](res/20110329-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 1.3.2011](res/20110301-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 24.1.2011](res/20110124-bericht-externe-kooperationspartner.pdf)
+- [Zwischenbericht der AG/Bestandsaufnahme für die Evaluation](res/zwischenbericht-der-ag-externe-kooperationspar.pdf)
+- [Ergebnisprotokoll des AG-Treffens vom 28.6.2010](res/20100628-bericht-externe-kooperationspartner.pdf)
+- [Ergebnisprotokoll der neuen AG beim Workshop im Mai 2010](res/bericht-der-arbeitsgruppe-4-vom-workshop.pdf)
