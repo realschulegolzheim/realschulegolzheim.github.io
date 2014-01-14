@@ -10,9 +10,9 @@ news: Hier kann man news hinpacken.
 ---
 
 
+<p>site.schule == {{ site.schule }}</p>
 
-site.schule == {{ site.schule }}
-
+## Mehr [dazu]({{ site.schule }})
 
 
 Wir begrüßen Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie alle Informationen finden. Unsere Internetseite richtet sich an Besucher, an die Eltern, die Schüler und an die Lehrer. Sie dient auch dem Informationsaustausch innerhalb der Schule! 
