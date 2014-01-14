@@ -8,11 +8,27 @@
   </head>
 
   <body class="blog-page {{page.body_css}}">
-    <div id="blog-wrapper">
-      <div id="posts">
-        {{ content }}
+
+    {% include nav_links.html %}
+    {% include header.html %}
+
+    <div class="container content-container">
+      <div class="row">
+        <div class="col-md-2 col-sm-3 aside-menu">
+           {% include schule_navigation.html %}
+        </div>
+
+        <div class="col-md-10 col-sm-9 main-content">
+          <div id="blog-wrapper">
+            <div id="posts">
+              {{ content }}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+
+    
 	
     <footer class="footer">
       <p>
