@@ -9,6 +9,12 @@ active: aktuelles
 news: Hier kann man news hinpacken.
 ---
 
+
+
+site.schule == {{ site.schule }}
+
+
+
 Wir begrüßen Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie alle Informationen finden. Unsere Internetseite richtet sich an Besucher, an die Eltern, die Schüler und an die Lehrer. Sie dient auch dem Informationsaustausch innerhalb der Schule! 
 
 **Ein Tipp für Schüler**: Schaut doch mal bei den - nach Fächern sortierten - Links unter "Üben &amp; Lernen" rein! Tut gar nicht weh! Da gibt's z.B. Muster-Klassenarbeiten, Vokabel-Abfrager, Gleichungskontrollen... 
