@@ -26,11 +26,11 @@ Da Frau Rasche und Frau Kaiser zum Ende des Jahres nicht mehr im Team der AG mit
 Mit besten Grüßen
 Ihre AG Externe Kooperationspartner 
 
+<!--
 <div class="container">
 	<div class="row">
 	  <div class="col-md-8"></div>
 	  <div class="col-md-4"><img src="/pics/24015.jpg"></img></div>
 	</div>
 </div>
-
-
+-->
