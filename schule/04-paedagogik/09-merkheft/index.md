@@ -1,6 +1,6 @@
 ---
 layout: schule
-title:  ""
+title:  "Das Merkheft"
 published: true
 ---
 

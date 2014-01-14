@@ -1,6 +1,6 @@
 ---
 layout: schule
-title:  ""
+title:  "Arbeitsgemeinschaften"
 published: true
 ---
 
