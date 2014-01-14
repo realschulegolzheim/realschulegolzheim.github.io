@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Anmeldung"
 published: true

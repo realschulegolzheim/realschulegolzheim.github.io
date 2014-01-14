@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Üben & Lernen"
 published: true

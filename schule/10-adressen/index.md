@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Wichtige Links und Adressen!"
 published: true

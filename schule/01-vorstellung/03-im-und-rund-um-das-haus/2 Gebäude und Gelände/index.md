@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Gebäude und Gelände"
 published: true

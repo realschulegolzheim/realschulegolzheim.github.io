@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Links rund um Schule und Familie"
 published: true

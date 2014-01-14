@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Unser Portrait des Monats"
 published: true

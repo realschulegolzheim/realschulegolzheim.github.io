@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Schulische Gremien"
 published: true
