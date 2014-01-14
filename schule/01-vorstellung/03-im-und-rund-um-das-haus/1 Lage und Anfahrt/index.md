@@ -1,4 +1,4 @@
-﻿---
+---
 layout: schule
 title:  "Lage und Anfahrt"
 published: true
@@ -9,8 +9,6 @@ published: true
 Unsere Schülerinnen und Schüler kommen aus allen Stadtteilen Düsseldorfs, also zu Fuß, mit dem Fahrrad oder mit Bus und Bahn. 
 
 Durch die Anbindung an die Straßenbahnlinien U78 und U79 (Haltestelle Reeser Platz), die Buslinien 729, 756, 758, 829, 834, 838 und SB51 (Haltestelle Theodor-Heuss-Brücke) sowie 721 und 722 (Haltestelle Nordfriedhof), kann man die Schule problemlos mit öffentlichen Verkehrsmitteln erreichen ([Fahrplanauskunft der Rheinbahn AG](http://www.rheinbahn.de/fahrplan/)). 
-
-
 
 ## Das Schoko-Ticket für Schüler
 

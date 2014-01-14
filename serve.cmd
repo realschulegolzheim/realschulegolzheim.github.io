@@ -1,2 +1,3 @@
 chcp 65001
-call jekyll serve --watch
+call jekyll serve --watch --trace
+
