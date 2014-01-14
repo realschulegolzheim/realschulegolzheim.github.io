@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Schüler"
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Wir sind gut drauf! Meistens..."
 published: true
 ---

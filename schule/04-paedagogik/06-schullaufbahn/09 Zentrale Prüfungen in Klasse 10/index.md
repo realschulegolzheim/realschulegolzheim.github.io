@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Zentrale Prüfungen in Klasse 10"
 published: true
 ---

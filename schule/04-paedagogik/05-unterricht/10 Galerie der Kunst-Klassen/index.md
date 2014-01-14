@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Galerie der Kunst-Klassen"
 published: true
 ---

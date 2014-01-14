@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Differenzierung ab Klasse 7"
 published: true
 ---

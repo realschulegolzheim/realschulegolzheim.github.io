@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Schulbücher und -material"
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Qualität - mehr als ein Modewort"
 published: true
 ---

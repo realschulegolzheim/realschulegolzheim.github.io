@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: schule
 title:  "Lage und Anfahrt"
 published: true
 ---

@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: schule
 title:  "Arbeitsmaterialien zum Download"
 published: true
 ---

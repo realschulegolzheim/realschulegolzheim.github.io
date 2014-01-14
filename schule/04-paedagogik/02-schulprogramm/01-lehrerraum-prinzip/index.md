@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Das Lehrerraum-Prinzip"
 published: true
 ---

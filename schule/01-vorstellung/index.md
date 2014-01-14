@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: schule
 title:  "Wir stellen uns vor"
 published: true
 ---

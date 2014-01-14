@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Lernstandserhebungen in Klasse 8"
 published: true
 ---

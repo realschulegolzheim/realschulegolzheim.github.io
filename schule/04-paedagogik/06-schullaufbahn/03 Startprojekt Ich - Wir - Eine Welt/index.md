@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Startprojekt Ich - Wir - Eine Welt"
 published: true
 ---

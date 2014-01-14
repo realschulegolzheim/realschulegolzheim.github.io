@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: schule
 title:  "Sprech- und - Bürozeiten"
 published: true
 ---

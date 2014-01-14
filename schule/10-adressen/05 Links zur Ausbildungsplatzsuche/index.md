@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: schule
 title:  "Links zur Ausbildungsplatzsuche"
 published: true
 ---

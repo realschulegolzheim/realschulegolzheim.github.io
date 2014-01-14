@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Das 67.5 Minutenraster"
 published: true
 ---

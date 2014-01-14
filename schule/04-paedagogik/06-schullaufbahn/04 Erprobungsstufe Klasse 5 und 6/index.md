@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Erprobungsstufe Klasse 5 und 6"
 published: true
 ---

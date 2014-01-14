@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schule
 title:  "Wir wollen's wissen!"
 published: true
 ---
