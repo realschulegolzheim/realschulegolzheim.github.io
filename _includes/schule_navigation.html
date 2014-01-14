@@ -1,34 +1,15 @@
  <div class="docked-menu">
 
-  <ul class="nav left-menu{% if page.title == "Aktuell/Wichtig!" %} active-menu{% endif %}">
+  <ul class="nav left-menu">
+    <li class="menu-title"><a href="/aktuell/">Blog</a></li>
     <li class="menu-title"><a href="{{ site.schule }}/00-aktuell-wichtig/">Aktuell/Wichtig!</a></li>
+    <li class="menu-title">
+      <a href="{{ site.schule }}/01-vorstellung/">Vorstellung</a>
+      <ul>
+        <li><a href="{{ site.schule }}/01-vorstellung/01-begruessung/">Begrüßung</a></li>
+      </ul>
+    </li>
   </ul>
 
-  <!-- Components -->
-  <ul class="nav left-menu">
-    <li class="menu-title">
-      <a href="{{ site.schule }}/01-vorstellung/">Wir stellen uns vor</a>
-    </li>
-    <li>
-      <a href="{{ site.schule }}/components/#header">Header</a>
-      <ul style="display: none;">
-        <li><a href="{{ site.schule }}/components/#subheader">Sub Header</a></li>
-      </ul>
-    </li>
-    <li><a href="{{ site.schule }}/components/#content">Content</a></li>
-    <li>
-      <a href="{{ site.schule }}/components/#buttons">Buttons</a>
-      <ul>
-        <li><a href="{{ site.schule }}/components/#block-buttons">Block</a></li>
-      </ul>
-    </li>
-    <li><a href="{{ site.schule }}/components/#toggle">Toggle</a></li>
-    <li>
-      <a href="{{ site.schule }}/components/#forms">Forms</a>
-      <ul>
-        <li><a href="{{ site.schule }}/components/#forms-placeholder-labels">Placeholder Labels</a></li>
-      </ul>
-    </li>
-    <li><a href="{{ site.schule }}/components/#checkbox">Checkbox</a></li>
-  </ul>
+
 </div>

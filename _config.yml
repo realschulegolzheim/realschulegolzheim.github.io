@@ -6,15 +6,11 @@ name: Realschule D&uuml;sseldorf Golzheim
 description: Homepage der Realschule D&uuml;sseldorf Golzheim
 url: http://www.schulen.duesseldorf.de/rs-tersteegenstr/
 markdown: redcarpet
-markdown_ext:  markdown,md
+markdown_ext:  md,markdown
 pygments: true
-permalink: /aktuell/:title
+permalink: /aktuell/:year/:month/:day/:title/
 paginate: 5
 schulname: Realschule Düsseldorf Golzheim Terstegenstraße
 
-# Default news if the page didnt enter news
-news: First time using Ionic? We recommend reading our <a href="/docs/guide/">Guide</a>, which covers all the basics of setting up an Ionic mobile app.
-
-# Docs Location Config
 docs_0_9_0: /schule
 schule: /schule
