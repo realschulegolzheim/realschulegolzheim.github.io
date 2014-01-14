@@ -5,7 +5,7 @@ published: true
 ---
 
 
-In der Schulpflegschaftssitzung werden die Elternvertreter in den Fachkonferenzen bestimmt, in denen u.a. über die Grundsätze des fachmethodischen Unterrichts entschieden wird und aus denen heraus Anregungen an die Lehrerkonferenz zur Einführung von Lernmitteln gerichtet werden.
+In der Schulpflegschaftssitzung werden die Elternvertreter für die Fachkonferenzen bestimmt, in denen u.a. über die Grundsätze des fachmethodischen Unterrichts entschieden wird und aus denen heraus Anregungen an die Lehrerkonferenz zur Einführung von Lernmitteln gerichtet werden.
 
 Da es sich um eine Vielzahl von Personen handelt, bitten wir, sie im Bedarfsfall bei der Schulleitung zu erfragen.
 

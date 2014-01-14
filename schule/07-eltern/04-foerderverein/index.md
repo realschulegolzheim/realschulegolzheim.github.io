@@ -16,4 +16,4 @@ Postanschrift:
 	Tersteegenstraße 62
 	40474 Düsseldorf
 
-[Satzung](foerderverein-realschule-golzheim-satzung.pdf) und [Beitrittserklärung](foerderverein-realschule-golzheim-beitrittserklaerung.pdf) des Fördervereins der Städtischen Realschule Golzheim in Düsseldorf e.V. zum Download.
+- [Satzung](foerderverein-realschule-golzheim-satzung.pdf) und [Beitrittserklärung](foerderverein-realschule-golzheim-beitrittserklaerung.pdf) des Fördervereins der Städtischen Realschule Golzheim in Düsseldorf e.V. zum Download.
