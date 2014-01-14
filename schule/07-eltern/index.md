@@ -12,8 +12,8 @@ Die Übersicht „Unsere Schule auf einen Blick“ kann – am Küchenschrank an
 
 Darüber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt sich, sie regelmäßig zu besuchen, weil dort auch tagesaktuelle Schul-Ereignisse, Ankündigungen und Rückblicke zu lesen sind! Vor allem soll sie einen tiefen Einblick in den Schulalltag und seine Hintergründe geben...
 
-- [Elternbegrüßung]({{ site.schule }}/02-anmeldung\res\elternbegruessung.pdf)
-- [Übersicht wichtiger Schul-Daten]({{ site.schule }}/02-anmeldung\res\elternbogen.pdf)
+- [Elternbegrüßung]({{ site.schule }}/02-anmeldung/res/elternbegruessung.pdf)
+- [Übersicht wichtiger Schul-Daten]({{ site.schule }}/02-anmeldung/res/elternbogen.pdf)
 
 # Grillfest der Eltern
 
