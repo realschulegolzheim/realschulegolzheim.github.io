@@ -1,5 +1,5 @@
 ---
-layout: docs_0.9.0
+layout: schule
 <!-- layout: docs_0.9.0 -->
 body_css: getting-started-page
 title: Herzlich willkommen
