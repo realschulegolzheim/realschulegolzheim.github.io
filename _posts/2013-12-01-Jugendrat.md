@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Wahl des Duesseldorfer Jugendrates"
 date: "2013-12-01 11:00:24"

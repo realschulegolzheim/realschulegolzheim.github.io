@@ -1,7 +1,13 @@
-﻿
-# Dritte Berufebörse an der Realschule Golzheim
+---
+layout: post
+title: "Dritte Berufebörse an der Realschule Golzheim"
+date: "2013-12-02 11:00:24"
+author: Christian Geuer-Pollmann
+published: true
+---
 
 Bereits zum dritten Mal in Folge wurde am 8.10.2013 in der Städtischen Realschule Golzheim eine BERUFEBÖRSE für die Schülerinnen und Schüler der Jahrgangsstufe 9 veranstaltet. 
+
 In der Aula der Schule stellten rund 30 Referenten aus den verschiedensten Berufsfeldern kleinen Schülergruppen im persönlichen Gespräch ihren Berufsalltag, die Ausbildungsmöglichkeiten, Vorausetzungen und Chancen auf dem Arbeitsmarkt dar. 
 
 In drei Runden à 25 Minuten konnten sich die Schüler ausführlich an den Gesprächsinseln über drei verschiedene Berufe ihrer Wahl informieren. 
@@ -21,10 +27,10 @@ Mit besten Grüßen
 Ihre AG Externe Kooperationspartner 
 
 <div class="container">
-<div class="row">
-  <div class="col-md-8">.col-md-8</div>
-  <div class="col-md-4"><img src="/pics/24015.jpg"></img></div>
-</div>
+	<div class="row">
+	  <div class="col-md-8"></div>
+	  <div class="col-md-4"><img src="/pics/24015.jpg"></img></div>
+	</div>
 </div>
 
 
