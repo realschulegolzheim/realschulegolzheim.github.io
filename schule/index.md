@@ -14,7 +14,11 @@ Wir begrüßen Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie a
 **Ein Tipp für Schüler**: Schaut doch mal bei den - nach Fächern sortierten - Links unter "Üben &amp; Lernen" rein! Tut gar nicht weh! Da gibt's z.B. Muster-Klassenarbeiten, Vokabel-Abfrager, Gleichungskontrollen... 
 
 
-### Elternveranstaltung „Von der Grundschule über die Realschule zum Abitur“
+{% capture aktuelle_termine %}{% include aktuelle_termine.md %}{% endcapture %}
+{{ aktuelle_termine | markdownify }}
+
+
+## Elternveranstaltung „Von der Grundschule über die Realschule zum Abitur“
 
 Am Donnerstag, den 30. Januar 2014 um 19 Uhr findet die Elternveranstaltung „Von der Grundschule über die Realschule zum Abitur“ statt. 
 
