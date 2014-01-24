@@ -30,7 +30,7 @@ published: true
 [11]: http://www.ulmato.de/bewerbung_tipps.asp
 [12]: http://www.wdr-lehrstellenaktion.de/radio/lehrstellen/programm/2010/2010_startklar.phtml
 [13]: http://www.hwk-duesseldorf.de/boerse/index_lboerse.php
-[14]: /pics/rp-artikel-handwerker-azubis-30.10.103.jpg
+[14]: {{site.url}}/pics/rp-artikel-handwerker-azubis-30.10.103.jpg
 [15]: http://www.duesseldorf.ihk.de/produktmarken/Ausbildung_Lehrstellen_Pruefungen/Ausbildungsplatzsuche/Lehrstellenboerse.jsp
 [16]: http://www.kids2biz.de/traumberuf.html
 [17]: http://www.dasa-dortmund.de/cln_135/dasa/de/Startseite.html

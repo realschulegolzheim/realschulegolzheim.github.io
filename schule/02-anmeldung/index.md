@@ -14,6 +14,7 @@ Darüber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt si
 
 - [<i class="fa fa-cloud-download"></i> Elternbegrüßung](res/elternbegruessung.pdf)
 - [<i class="fa fa-cloud-download"></i> Wichtige Kurz-Infos zum Ausdruck](res/elternbogen.pdf)
+- [<i class="fa fa-cloud-download"></i> Wichtige Kurz-Infos zum Ausdruck]({{site.url}}/schule/02-anmeldung/res/elternbogen.pdf)
 
 <!-- 
 Am Tag der offenen Tür am 21. Januar 2012 informierte die Schulleitung die Eltern gruppenweise in der Aula, anschließend wurden diese Gruppen von Kollegen, Schülern und Eltern durch das Haus geführt. Dabei war Gelegenheit zur Unterrichtsmitschau in der Orientierungstufe, bevorzugt in Deutsch, Mathematik und Englisch.

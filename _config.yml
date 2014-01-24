@@ -1,16 +1,22 @@
 # Site Configs
-safe: true
-lsi: false
 
-name: Realschule D&uuml;sseldorf Golzheim
-description: Homepage der Realschule D&uuml;sseldorf Golzheim
-url: http://www.schulen.duesseldorf.de/rs-tersteegenstr/
-markdown: redcarpet
+port:         3999
+host:         127.0.0.1
+
+safe:          true
+lsi:           false
+markdown:      redcarpet
 markdown_ext:  md,markdown
-pygments: true
-permalink: /aktuell/:year/:month/:day/:title/
-paginate: 5
-schulname: Realschule Düsseldorf Golzheim Terstegenstraße
+pygments:      false
+paginate:      5
 
-docs_0_9_0: /schule
-schule: /schule
+name:        Realschule Düsseldorf Golzheim
+description: Homepage der Realschule Düsseldorf Golzheim
+schulname:   Realschule Düsseldorf Golzheim Terstegenstraße
+
+permalink:   /aktuell/:year/:month/:day/:title/
+schule:      /schule
+
+
+url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2
+# url: ""
