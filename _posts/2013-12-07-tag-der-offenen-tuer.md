@@ -1,7 +1,7 @@
 ---
 layout: schule
 title:  "Tag der offenen Tür 2013"
-date: "2013-13-07 11:00:00"
+date: "2013-12-07 11:00:00"
 published: true
 ---
 
