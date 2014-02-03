@@ -4,6 +4,25 @@ title:  "Aktuell/Wichtig!"
 published: true
 ---
 
+## Schul-Anmeldetermine 2014
+
+Die Anmeldetermine für die neuen Schüler/innen der 5. Klassen lauten:
+
+5. März 2014 10 - 13 Uhr und 16 - 19 Uhr
+
+6. März 2014 10 - 13 Uhr und 16 - 19 Uhr
+
+7. März 2014 10 - 13 Uhr 
+
+## Die beweglichen Ferientage 2014 lauten:
+
+- 27. Februar 2014, 
+- 28. Februar 2014, 
+- 03. März 2014(Rosenmontag), 
+- 04. März 2014 und 
+- 30. Mai 2014
+
+
 ## Die Kunst der Grenzziehung: Konsequent erziehen – erfolgreich erziehen
 
 Ein Vortragsabend mit Thomas Grüner
