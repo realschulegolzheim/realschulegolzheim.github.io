@@ -4,8 +4,6 @@ title:  "Aktuell/Wichtig!"
 published: true
 ---
 
-# Aktuell/Wichtig!
-
 ## Die Kunst der Grenzziehung: Konsequent erziehen – erfolgreich erziehen
 
 Ein Vortragsabend mit Thomas Grüner
