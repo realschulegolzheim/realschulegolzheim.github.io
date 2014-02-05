@@ -2,7 +2,7 @@
 layout: post
 title: "Dritte Berufebörse an der Realschule Golzheim"
 date: "2013-12-02 11:00:24"
-author: Christian Geuer-Pollmann
+author: "Realschule Golzheim"
 published: true
 ---
 

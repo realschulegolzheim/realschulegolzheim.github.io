@@ -1,28 +1,27 @@
-<div class="sidebar">
+<!-- _includes/schule_navigation_side.html -->
+<div class="sidebar bs-sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
+  <div role="complementary"> <!-- role="" -->
+    <ul class="nav bs-sidenav">
+      <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
+      <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
+      
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: schule` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-
-    <div class="bs-sidebar hidden-print" role="navigation"> <!-- role="complementary" -->
-      <ul class="nav bs-sidenav">
-        <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
-        <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
-        
-        {% comment %}
-          The code below dynamically generates a sidebar nav of pages with
-          `layout: schule` in the front-matter. See readme for usage.
-        {% endcomment %}
-
-        {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
-          {% if node.title != null %}
-            {% if node.layout == "schule" %}
-                <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
-            {% endif %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "schule" %}
+              <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
           {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </div>
-
+<!-- _includes/schule_navigation_side.html -->

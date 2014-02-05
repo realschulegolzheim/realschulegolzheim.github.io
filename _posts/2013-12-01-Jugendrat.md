@@ -2,7 +2,7 @@
 layout: post
 title: "Wahl des Duesseldorfer Jugendrates"
 date: "2013-12-01 11:00:24"
-author: Christian Geuer-Pollmann
+author: "Realschule Golzheim"
 published: true
 ---
 

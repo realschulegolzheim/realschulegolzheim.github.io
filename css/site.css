@@ -11144,3 +11144,10 @@ h1 + h2 + p {
       border-right: 1px solid #ddd; }
     .pre-footer .col-b {
       padding-left: 70px; } }
+
+
+
+.nav > li > a 
+{
+  padding: 1px 1px;
+}
