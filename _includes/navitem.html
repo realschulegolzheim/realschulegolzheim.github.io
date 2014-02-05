@@ -1,11 +1,11 @@
 
 {% comment %}
-	include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles'
+	include navitem.html url="/schule/00-aktuell-wichtig/index.html title='Aktuelles'
 {% endcomment %}
 
-<li {% if page.url == include.nodeurl %} class="active" {% endif %}>
-<a class="sidebar-nav-item" href="{{ include.nodeurl }}">
-{% if page.url == include.nodeurl %} <i class="fa fa-hand-o-right"></i> {% endif %}
+<li {% if page.url == include.url %} class="active" {% endif %}>
+<a class="sidebar-nav-item" href="{{ include.url }}">
+{% if page.url == include.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
 {{include.title}}
 </a>
 </li>

@@ -5,9 +5,14 @@
     <p>site.schule = {{ site.schule }}</p>
     <p>page.url = {{ page.url }}</p>
     <p>page.path = {{ page.path }}</p>
+
+
+
   </div>
   <div role="complementary"> <!-- role="" -->
     <ul class="nav nav-tabs nav-stacked bs-sidenav ">
+      {%include navitem.html url="/schule/00-aktuell-wichtig/index.html title='Aktuelles'%}
+
       <li><a class="sidebar-nav-item{% if page.url == "aktuell/" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
       <li><a class="sidebar-nav-item{% if page.url == site.schule %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
 
