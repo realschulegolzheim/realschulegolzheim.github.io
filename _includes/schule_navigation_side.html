@@ -19,8 +19,9 @@
           {% if node.title != null %}
             {% if node.layout == "schule" %}
                 <li {% if page.url == node.url %} class="active" {% endif %}><a class="sidebar-nav-item" href="{{ node.url }}">
+                  {% if page.url == node.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
                   {{ node.title }}
-                  {% if page.url == node.url %} <i class="fa fa-circle"></i> {% endif %}
+                  {% if page.url == node.url %} <i class="fa fa-hand-o-left"></i> {% endif %}
                 </a></li>
             {% endif %}
           {% endif %}
