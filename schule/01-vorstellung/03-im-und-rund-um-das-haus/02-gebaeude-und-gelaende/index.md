@@ -2,6 +2,7 @@
 layout: schule
 title:  "Gebäude und Gelände"
 published: true
+weight: 13.2
 ---
 
 

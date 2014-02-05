@@ -2,6 +2,7 @@
 layout: schule
 title:  "Lage und Anfahrt"
 published: true
+weight: 13.1
 ---
 
 ## Erreichbarkeit mit öffentlichen Verkehrsmitteln

@@ -2,7 +2,7 @@
 layout: schule
 title:  "Aktuell/Wichtig!"
 published: true
-
+weight: 0
 ---
 
 {% for post in site.posts %}

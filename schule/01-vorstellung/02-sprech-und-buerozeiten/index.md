@@ -2,6 +2,7 @@
 layout: schule
 title:  "Sprech- und -Bürozeiten"
 published: true
+weight: 12
 ---
 
 	Montag     7:15 bis 14:00 Uhr

@@ -4,7 +4,7 @@
     <p>{{ site.description }}</p>
   </div>
   <div role="complementary"> <!-- role="" -->
-    <ul class="nav bs-sidenav">
+    <ul class="nav nav-tabs nav-stacked bs-sidenav ">
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
       
@@ -13,11 +13,16 @@
         `layout: schule` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort:"path" %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "schule" %}
-              <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+        {% if node.path contains "schule/" %}
+          {% if node.title != null %}
+            {% if node.layout == "schule" %}
+                <li {% if page.url == node.url %} class="active" {% endif %}><a class="sidebar-nav-item" href="{{ node.url }}">
+                  {{ node.title }}
+                  {% if page.url == node.url %} <i class="fa fa-circle"></i> {% endif %}
+                </a></li>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}

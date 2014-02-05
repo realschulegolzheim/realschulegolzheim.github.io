@@ -2,6 +2,7 @@
 layout: schule
 title:  "Begrüßung"
 published: true
+weight: 11
 ---
 
 Die folgenden Seiten sollen Ihnen einen Einblick in unsere „Schulwelt“ ermöglichen. 
