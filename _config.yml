@@ -14,9 +14,9 @@ name:        Realschule Düsseldorf Golzheim
 description: Homepage der Realschule Düsseldorf Golzheim
 schulname:   Realschule Düsseldorf Golzheim Terstegenstraße
 
+blog:        /aktuell
 permalink:   /aktuell/:year/:month/:day/:title/
 schule:      /schule
-
 
 url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2
 # url: ""
