@@ -5,13 +5,12 @@
   </div>
   <div role="complementary"> <!-- role="" -->
     <ul class="nav nav-tabs nav-stacked bs-sidenav ">
+      {% include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles' %}
+      <!-- dddd -->
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
 
 
-      {% include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles' %}
-      
-      <!-- dddd -->
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: schule` in the front-matter. See readme for usage.
