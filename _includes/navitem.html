@@ -1,0 +1,19 @@
+
+
+
+
+<li {% if page.url == node.url %} class="active" {% endif %}>
+<a class="sidebar-nav-item" href="{{ node.url }}">
+{% if page.url == node.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
+{{include.title}}
+{% if page.url == node.url %} <i class="fa fa-hand-o-left"></i> {% endif %}
+</a>
+</li>
+
+
+<!--
+<a href="{{include.uri}}"><i class="fa fa-cloud-download"></i> {{include.text}}</a>
+
+
+{% include navitem.html page=page node=node title='{{ node.title }}' %}
+-->
