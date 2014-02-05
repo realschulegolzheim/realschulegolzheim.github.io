@@ -2,9 +2,9 @@
 
 
 
-<li {% if page.url == node.url %} class="active" {% endif %}>
-<a class="sidebar-nav-item" href="{{ node.url }}">
-{% if page.url == node.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
+<li {% if page.url == include.nodeurl %} class="active" {% endif %}>
+<a class="sidebar-nav-item" href="{{ include.nodeurl }}">
+{% if page.url == include.nodeurl %} <i class="fa fa-hand-o-right"></i> {% endif %}
 {{include.title}}
 </a>
 </li>

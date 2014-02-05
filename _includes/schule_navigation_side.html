@@ -7,7 +7,11 @@
     <ul class="nav nav-tabs nav-stacked bs-sidenav ">
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
       <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
+
+
+      {% include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles' %}
       
+      <!-- dddd -->
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: schule` in the front-matter. See readme for usage.
@@ -19,10 +23,6 @@
           {% if node.title != null %}
             {% if node.layout == "schule" %}
 
-{% include navitem.html page=page node=node title='{{ node.title }}' %}
-
-
-<!--
                 <li {% if page.url == node.url %} class="active" {% endif %}>
                   <a class="sidebar-nav-item" href="{{ node.url }}">
                     {% if page.url == node.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
@@ -30,7 +30,7 @@
                     {% if page.url == node.url %} <i class="fa fa-hand-o-left"></i> {% endif %}
                   </a>
                 </li>
--->
+
             {% endif %}
           {% endif %}
         {% endif %}
