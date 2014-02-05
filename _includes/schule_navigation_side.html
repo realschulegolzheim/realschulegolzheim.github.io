@@ -5,11 +5,8 @@
   </div>
   <div role="complementary"> <!-- role="" -->
     <ul class="nav nav-tabs nav-stacked bs-sidenav ">
-      {% include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles' %}
-      <!-- dddd -->
-      <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
-      <li><a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
-
+      <li><a class="sidebar-nav-item{% if page.url == "aktuell/" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == site.schule %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -24,7 +21,6 @@
 
                 <li {% if page.url == node.url %} class="active" {% endif %}>
                   <a class="sidebar-nav-item" href="{{ node.url }}">
-                    {% if page.url == node.url %} <i class="fa fa-hand-o-right"></i> {% endif %}
                     {{ node.title }}
                     {% if page.url == node.url %} <i class="fa fa-hand-o-left"></i> {% endif %}
                   </a>

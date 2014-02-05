@@ -1,5 +1,7 @@
 
-ss
+{% comment %}
+	include navitem.html nodeurl="schule/00-aktuell-wichtig/index.md" title='Aktuelles'
+{% endcomment %}
 
 <li {% if page.url == include.nodeurl %} class="active" {% endif %}>
 <a class="sidebar-nav-item" href="{{ include.nodeurl }}">
@@ -7,10 +9,3 @@ ss
 {{include.title}}
 </a>
 </li>
-
-<!--
-<a href="{{include.uri}}"><i class="fa fa-cloud-download"></i> {{include.text}}</a>
-
-
-{% include navitem.html page=page node=node title='{{ node.title }}' %}
--->
