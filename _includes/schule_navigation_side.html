@@ -2,23 +2,10 @@
 <div class="sidebar bs-sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
-    <p>site.schule = {{ site.schule }}</p>
-    <p>page.url = {{ page.url }}</p>
-    <p>page.path = {{ page.path }}</p>
-
-
-
   </div>
   <div role="complementary"> <!-- role="" -->
     <ul class="nav nav-tabs nav-stacked bs-sidenav ">
-      <li>Stuff</li>
-      <li><a class="sidebar-nav-item{% if page.url == "aktuell/" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
-      <li><a class="sidebar-nav-item{% if page.url == site.schule %} active{% endif %}" href="{{ site.schule }}/">Home</a></li>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: schule` in the front-matter. See readme for usage.
-      {% endcomment %}
+      <li><a class="sidebar-nav-item{% if page.path == "aktuell/index.html" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
 
       {% assign pages_list = site.pages | sort:"path" %}
       {% for node in pages_list %}
@@ -38,6 +25,11 @@
         {% endif %}
       {% endfor %}
     </ul>
+  </div>
+  <div class="sidebar-item">
+    <p>site.schule = {{ site.schule }}</p>
+    <p>page.url = {{ page.url }}</p>
+    <p>page.path = {{ page.path }}</p>
   </div>
 </div>
 <!-- _includes/schule_navigation_side.html -->
