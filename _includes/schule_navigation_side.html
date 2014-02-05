@@ -4,7 +4,7 @@
     <p>{{ site.description }}</p>
   </div>
   <div role="complementary"> <!-- role="" -->
-    <ul class="nav nav-tabs nav-stacked bs-sidenav ">
+    <ul class="nav nav-pills nav-stacked">
       <li><a class="sidebar-nav-item{% if page.path == "aktuell/index.html" %} active{% endif %}" href="/aktuell/">Aktuell</a></li>
 
       {% assign pages_list = site.pages | sort:"path" %}
