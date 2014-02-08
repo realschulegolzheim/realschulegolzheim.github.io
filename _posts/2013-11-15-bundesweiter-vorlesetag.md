@@ -1,5 +1,5 @@
 ---
-layout: schule
+layout: post
 title:  "10. Bundesweiter Vorlesetag"
 date: "2013-11-15 11:00:00"
 published: true

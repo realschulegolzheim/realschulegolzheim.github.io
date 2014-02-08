@@ -1,5 +1,5 @@
 ---
-layout: schule
+layout: post
 title:  "Schüler helfen Schülern – Das Nachhilfeprogramm der Realschule Golzheim"
 date: "2013-11-06 11:00:00"
 published: true

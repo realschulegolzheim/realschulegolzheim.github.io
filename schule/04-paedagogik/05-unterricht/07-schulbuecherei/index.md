@@ -4,17 +4,15 @@ title:  "Schulbücherei/Medien"
 published: true
 ---
 
-# Unsere Öffnungszeiten
+Ihr könnt Euch hier aktuelle Bücker, wie z.B. "Gregs Tagebuch", bei uns ausleihen. Wir freuen uns immer über Spenden, z.B. in Form von gut erhaltene Jugendliteratur.
 
-Dienstags und donnerstags von 13.15 bis 14.00 Uhr, mittwochs in der Pause
+## Unsere Öffnungszeiten
 
-auch neue Bücher, wie beispielsweise "Gregs Tagebuch", können entliehen werden
+- Dienstags von 13.15 bis 14.00 Uhr
+- Mittwochs in der Pause
+- Donnerstags von 13.15 bis 14.00 Uhr 
 
-Das Team der Bücherei freut sich weiterhin über Bücherspenden (gut erhaltene Jugendliteratur)!
-
-
-
-
+<!--
 ## Schulbücherei-AG
 
 Am Dienstag, den 28. Juni 2011, präsentierte die kleine Schulbücherei-AG selbstbewusst ihr Arbeitsergebnis: 
@@ -22,3 +20,4 @@ Am Dienstag, den 28. Juni 2011, präsentierte die kleine Schulbücherei-AG selbs
 Raum 100 (im ersten Stock, hinter der Glastür zum benachbarten Gymnasium) wurde mit Unterstützung von Eltern und Lehrern in frischen Farben gestrichen, die gesammelten Bücher stehen in neuen, hellen Regalen, und die quietschgelben Sitzsäcke laden zum Schmökern ein! 
 
 Besonders stolz ist die AG auf das Computerprogramm, das an das Verleihkonzept der Düsseldorfer Stadtbücherei angelehnt ist.
+-->
