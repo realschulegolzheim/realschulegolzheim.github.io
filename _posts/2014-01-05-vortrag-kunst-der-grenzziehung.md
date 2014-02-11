@@ -1,5 +1,5 @@
 ---
-layout: schule
+layout: post
 title:  "Die Kunst der Grenzziehung: Konsequent erziehen – erfolgreich erziehen"
 date: "2014-01-05 11:00:00"
 published: true

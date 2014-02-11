@@ -5,13 +5,7 @@
     <title>{{page.title}} - Realschule Golzheim</title>
     {% include head_includes.html %}
   </head>
-
-  {% if page.full %}
-  <body class="body-full docs-page docs {{ page.body_css }}">
-  {% else %}
-  <body class="docs-page docs {{ page.body_css }}">
-  {% endif %}
-
+  <body class="full-page {{page.body_css}}">
     {% include header.html %}
 
     <div class="container content-container">

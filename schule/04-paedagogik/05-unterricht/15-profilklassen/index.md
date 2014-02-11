@@ -4,13 +4,13 @@ title:  "Profil-Klassen"
 published: true
 ---
 
-# Sportklasse
+## Sportklasse
 
 Mit Beginn des Schuljahres 2010/2011 wurde eine 5. Klasse mit dem Schwerpunkt "Sport" eingerichtet. Seitdem läuft sie erfolgreich und mit steigenden Anmeldezahlen.
 
 Ansprechpartner sind Herr Gralke und Herr Messink. 
 
-# Keyboardklasse
+## Keyboardklasse
 
 Im Schuljahr 2009/2010 haben wir zur Stärkung unseres musisch-künstlerischen Profils eine Keyboardklasse eröffnet. Sie konnte sich inzwischen erfolgreich etablieren. 
 

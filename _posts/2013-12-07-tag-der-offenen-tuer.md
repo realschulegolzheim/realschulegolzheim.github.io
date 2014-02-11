@@ -1,5 +1,5 @@
 ---
-layout: schule
+layout: post
 title:  "Tag der offenen Tür 2013"
 date: "2013-12-07 11:00:00"
 published: true
