@@ -10,9 +10,9 @@ markdown_ext:  md,markdown
 pygments:      false
 paginate:      5
 
-name:        Realschule Düsseldorf Golzheim
-description: Homepage der Realschule Düsseldorf Golzheim
-schulname:   Realschule Düsseldorf Golzheim Terstegenstraße
+name:        Realschule D&uuml;sseldorf Golzheim Terstegenstra&szlig;e
+description: Realschule D&uuml;sseldorf Golzheim Terstegenstra&szlig;e
+schulname:   Realschule D&uuml;sseldorf Golzheim Terstegenstra&szlig;e
 
 blog:        /aktuell
 permalink:   /aktuell/:year/:month/:day/:title/
