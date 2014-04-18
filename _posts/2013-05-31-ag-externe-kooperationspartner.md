@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AG Externe Kooperationspartner"
+title: "AG Externe Kooperationspartner"
 date: "2013-05-31 11:00:00"
 published: true
 ---

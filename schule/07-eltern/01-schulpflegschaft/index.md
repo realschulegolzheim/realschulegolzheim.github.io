@@ -15,5 +15,5 @@ Für das Schuljahr 2012/2013 wurden gewählt:
 - Frau Dörthe Zimmermann als Schulpflegschaftsvorsitzende
 - Frau Pascha-Guerrero als stellvertretende Schulpflegschaftsvorsitzende 
 
-Sie sind über folgende E-Mail-Adresse zu erreichen: rsgolzheimschulpflegschaft@gmx.de
+Sie sind über folgende E-Mail-Adresse zu erreichen: [rsgolzheimschulpflegschaft@gmx.de](mailto:rsgolzheimschulpflegschaft@gmx.de)
 
