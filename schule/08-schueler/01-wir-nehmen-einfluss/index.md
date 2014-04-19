@@ -13,7 +13,6 @@ Als Schülersprecher für das Schuljahr 2012/2013 wurden gewählt
 - Fabienne Mielke als Schülersprecherin
 - Laura Koßmann als stellvertretende Schülersprecherin
 
-
 ## Klassensprecher
 
 	Ein Klassensprecher ist der Vertreter einer Schulklasse. Er wird – meist zusammen mit einem oder zwei Stellvertretern – zu Beginn des Schuljahres für ein halbes oder ein ganzes Jahr demokratisch von der gesamten Klasse aus deren Mitte gewählt. 

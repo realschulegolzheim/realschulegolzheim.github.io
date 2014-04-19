@@ -135,9 +135,3 @@ Generell lohnt es sich auch, auf den Internetseiten von Österreich und der Schw
 
 - www.allgemeinwissen.ch 
 
-
-
-
-
-
-

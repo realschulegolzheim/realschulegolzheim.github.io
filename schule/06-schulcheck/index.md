@@ -4,8 +4,6 @@ title:  "Schul-Check"
 published: true
 ---
 
-# Schul-Check
-
 ## BerufeBörse 2012 mit erfreulicher Resonanz
 
 Am 11.9.2012 veranstaltete die Städtische Realschule Golzheim in ihrer Aula zum zweiten Mal diese Informationsveranstaltung für alle Schülerinnen und Schüler der 9. Klassen
@@ -83,6 +81,8 @@ Die Einzelheiten sind in den Kurzberichten nachzulesen:
 
 <!--
 
+# Schul-Check - wie alles begann
+
 ## Wir machen uns wieder auf den Weg!
 
 Vor fünf Jahren - aufgestört durch den Amoklauf in Erfurt - hatten wir unsere Schule in einer gemeinsamen Anstrengung von Schülern, Lehrern und Eltern mit folgenden Fragen unter die Lupe genommen:
@@ -94,9 +94,10 @@ Vor fünf Jahren - aufgestört durch den Amoklauf in Erfurt - hatten wir unsere 
 - Wie erwerben Schüler die Kompetenzen, die sie dazu befähigen, sich in einer immer komplexeren Welt zurecht zu finden und diese im Sinne der Agenda 21 mitzugestalten?
 
 Nun - in dem Jahr, in dem unsere Schule ihren 100. Geburtstag feiert - möchten wir untersuchen, was aus unseren Vorhaben und Hoffnungen geworden ist. Was hatte Bestand? Was hat sich nicht bewährt? Woran sollten wir weiter arbeiten - und was wollen wir für die Zukunft erreichen?
+
 So wurde in der Schulkonferenz am 29.10.2009 beschlossen, sich wieder ein Stück weiter auf den Weg zu einer im Wortsinn "guten Schule" zu machen! 
 
-Auf diesen Seiten möchten wir in Zukunft alle Interessierten und/oder Beteiligten informieren und an den Arbeitsfortschritten teilhaben lassen. Die Arbeitsgruppen werden sich selber organisieren, so dass sich auch für die Teilnehmer eine Chance zum Mitmachen bietet, die nur wenig Zeit haben! Auch ein späterer Einstieg oder Wechsel ist möglich - wer teilnehmen möchte, wendet sich einfach bei Frau Rasche unter Schulcheck2010@web.de und erfährt von ihr, wie der Stand der Dinge ist und an wen er sich wenden kann. Wir freuen uns über jede Anregung und jede Mitwirkung! 
+Auf diesen Seiten möchten wir in Zukunft alle Interessierten und/oder Beteiligten informieren und an den Arbeitsfortschritten teilhaben lassen. Die Arbeitsgruppen werden sich selber organisieren, so dass sich auch für die Teilnehmer eine Chance zum Mitmachen bietet, die nur wenig Zeit haben! Auch ein späterer Einstieg oder Wechsel ist möglich - wer teilnehmen möchte, wendet sich einfach bei Frau Rasche unter Schulcheck2010@web.de und erfährt von ihr, wie der Stand der Dinge ist und an wen er sich wenden kann. Wir freuen uns über jede Anregung und jede Mitwirkung!
 
 ## Ideen-Schmiede erfolgreich gestartet
 
@@ -104,14 +105,27 @@ Herzlichen Dank an alle Schüler, Lehrer und Eltern, die bei diesem sonnigen Wet
 
 Immerhin 36 Teilnehmer kamen am 29.5. zusammen, um Ideen auszutauschen: Was kann und muss getan werden, um das Leben und Lernen an unserer Schule weiter zu verbessern? Es hätten gerne noch ein paar Besucher mehr sein dürfen, aber auch in dieser Konstellation wurden schon gute Ergebnisse erzielt! In alle Arbeitsgruppen können weitere Mitwirkende jederzeit einsteigen! Wer Interesse hat, kann Frau Rasche unter Schulcheck2010@web.de anmailen. 
 
-Die vier Arbeitsgruppen "Fachunterricht/Individuelle Förderung", "Schulleben/Kommunikation in der Schulgemeinschaft", "Gebäude & Gelände" und "Externe Kooperationspartner" setzten zunächst thematische Schwerpunkte. Teilweise stimmten sie schon Termine ab, bereiteten die nächsten Treffen inhaltlich vor und formulierten Kooperationsbedarf mit AGs und Schulgremien. 
+Die vier Arbeitsgruppen "Fachunterricht/Individuelle Förderung", "Schulleben/Kommunikation in der Schulgemeinschaft", "Gebäude & Gelände" und "Externe Kooperationspartner" setzten zunächst thematische Schwerpunkte. Teilweise stimmten sie schon Termine ab, bereiteten die nächsten Treffen inhaltlich vor und formulierten Kooperationsbedarf mit AGs und Schulgremien.
 
 ## Interesse an diesen Themen?
 
-Natürlich bleiben bei einem Workshop immer Themen und Ideen, die noch nicht aufgegriffen werden konnten. Wir haben sie zusammengestellt und bieten sie hier an.  Wer sich für eines der Themen stark machen will und es mit anderen Eltern, Schülern und Lehrern zusammen nach vorne bringen möchte, braucht nur Frau Rasche von der Steuergruppe eine Email an Schulcheck@web.de zu schicken. Sie wird sich darum kümmern - versprochen! 
+Natürlich bleiben bei einem Workshop immer Themen und Ideen, die noch nicht aufgegriffen werden konnten: 
 
+- Unterrichtsprojekte zu „Strom-/Wassersparen/Klima/Recycling“
+- Projekte zum Thema „Gesunde Ernährung“
+- Konzept des Umgangs mit Hausaufgaben an der Schule
+- Projekte zur Sprache und Sprachkultur
+- Theaterprojekte
+- Projekte zum menschlichen Miteinander in der Schule
+- Entwicklung eines „Wir-Gefühls“ an unserer Schule (T-Shirts u.ä.)
+- Fächerübergreifende Bearbeitung des WIU-Startprojekts zur Einschulung „Wir malen uns Erde und Menschen aus“
+- Stärkere Nutzung der Aquazoo-Kooperation
+- Unterstützung der Togo-AG
+- Gründung einer Schüler-Firma (z.B. mit fair gehandelten Produkten)
+- Kooperation/Austausch mit einer englischen Schule Bei Interesse einfach eine Email an steinberg40474@web.de
 
+Wer sich für eines der Themen stark machen will und es mit anderen Eltern, Schülern und Lehrern zusammen nach vorne bringen möchte, braucht nur Frau Rasche von der Steuergruppe eine Email an Schulcheck@web.de zu schicken. 
 
+Sie wird sich darum kümmern - versprochen!
 
 -->
-
