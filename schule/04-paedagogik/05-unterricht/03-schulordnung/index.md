@@ -4,8 +4,6 @@ title:  "Schulordnung"
 published: true
 ---
 
-# Schulordnung
-
 In unserer Schule halten sich Tag für Tag etwa 650 Menschen auf. Damit das Schulleben ungestört und erfolgreich verlaufen kann, muss es genaue Regeln geben, die von allen beachtet werden.
 
 Diese Regeln gelten an der Realschule Golzheim im Einzelnen: 
