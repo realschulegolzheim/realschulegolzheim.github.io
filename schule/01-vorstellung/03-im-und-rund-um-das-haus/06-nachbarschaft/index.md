@@ -13,3 +13,5 @@ Das Georg-Büchner-Gymnasium befindet sich im gleichen Schulgebäude. Wir teilen
 	Felix-Klein-Straße 3
 	40474 Düsseldorf
 	http://www.gbg-duesseldorf.de/
+	http://www.georg-buechner-aufbaugymnasium.de/
+

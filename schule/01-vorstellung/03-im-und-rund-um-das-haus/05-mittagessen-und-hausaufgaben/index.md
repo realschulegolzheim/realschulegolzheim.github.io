@@ -1,12 +1,10 @@
 ---
 layout: schule
-title:  "Mittagessen/Hausaufgaben"
+title:  "Mittagessen und Hausaufgabenbetreuung"
 published: true
 ---
 
-
-
-# Mittagessen
+## Mittagessen
 
 Wir sind dazu verpflichtet, nach der 6. Unterrichtsstunde eine Mittagspause für die Schüler einzurichten, die danach noch Unterricht oder AG's besuchen.
 
@@ -20,8 +18,7 @@ Fragen zur Organisation und Abwicklung der Über-Mittag-Betreuung richten Sie bi
 	Jugendclub Ammerweg
 	Telefon: 0211 / 41 47 47 
 
-
-# Hausaufgabenbetreuung
+## Hausaufgabenbetreuung
 
 Wie in unserem Anschreiben an die Eltern zu Beginn jeden Schuljahres vorgestellt, steht für die 
 5. und 6. Klassen montags bis donnerstags eine Hausaufgabenbetreuung in der 1. Etage zur Verfü-

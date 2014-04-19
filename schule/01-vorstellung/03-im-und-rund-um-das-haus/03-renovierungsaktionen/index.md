@@ -4,14 +4,11 @@ title:  "Renovierungsaktionen"
 published: true
 ---
 
-
-
-
-# Alles neu macht der Januar!
+## Alles neu macht der Januar!
 
 Die Schulverwaltung hat sich kurzfristig entschieden, unsere Flure und das Treppenhaus frisch streichen zu lassen. Die Ornamente und die Zierschriften bleiben dabei erhalten, die Farbwahl entspricht den bisher gewählten Farben. 
 
-# Eltern und Schüler verschönern ihre Schule
+## Eltern und Schüler verschönern ihre Schule
 
 Zwei Wochenenden im April 2008 haben die Flure unseres Schulgebäudes wieder ansehnlich gemacht:
 In einer gemeinsamen Aktion von Eltern und der Verschönerungs-AG sind die Flure der 1. und 2. Etage und das Treppenhaus angestrichen worden und erstrahlen in neuem, farbigen Glanz! Ein ganz besonderes "Dankeschön" an alle Eltern, die die Arbeiten freiwillig so tatkräftig durchgeführt haben. 

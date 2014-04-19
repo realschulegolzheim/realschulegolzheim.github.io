@@ -9,3 +9,4 @@ Für den Einen tägliche Routine - für den Anderen ein Buch mit 7 Siegeln: die 
 ## Die Struktur der Realschule Golzheim
 
 <img src="img/organigramm-maaen-2-als-bild.jpg" />
+
