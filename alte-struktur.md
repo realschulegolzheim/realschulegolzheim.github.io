@@ -1,0 +1,103 @@
+---
+layout: schule
+title:  "Alte Navigationsstruktur"
+published: true
+---
+
+- Aktuell/Wichtig!
+	- Wahl des Düsseldorfer Jugendrates 2013
+	- Dritte Berufebörse an der Realschule Golzheim
+- Wir stellen uns vor
+	- Begrüßung
+	- Sprech- und Bürozeiten
+	- Im und rund um's Haus
+		- Lage und Anfahrt
+		- Gebäude und Gelände
+		- Renovierungsaktionen
+		- Spind-Angebot
+		- Mittagessen/Hausaufgaben
+		- Die Nachbarschaft
+	- Organigramm
+	- Schulische Gremien
+	- Unser Portrait des Monats
+	- Pressespiegel
+- Anmeldung
+- Berufsorientierung
+- Unsere Pädagogik
+	- Schulgeschichte
+	- Das Schulprogramm
+		- Lehrerraum-Prinzip
+		- Das 67,5-Minuten-Raster
+	- Qualität: mehr als ein Modewort
+	- Partner und Patenschaften
+	- Unterricht
+		- Aktuelle Statistik
+		- Kollegium
+		- Schulordnung
+		- Versetzungsordnung
+		- Kopfnoten
+		- Schulmaterial
+		- Schulbücherei/Medien
+		- Schüleraustausch Frankreich
+		- Galerie der Kunst-Klassen
+		- Stundentafel
+		- Curriculum und Lehrpläne
+		- Schüler helfen Schülern
+		- Ergänzungs- und Förderunterricht
+		- Profilklassen
+		- Schulsozialarbeit
+		- Hilfe bei Lernstörungen
+		- Hochbegabung
+		- Bunter Alltag
+	- Schullaufbahn
+		- Anmeldung
+		- Sanfter Übergang - Lernen lernen!
+		- Startprojekt "Ich - Wir - Eine Welt"
+		- Erprobungsstufe Klasse 5+6
+		- Differenzierung ab Klasse 7
+		- Lernstandserhebungen in Klasse 8
+		- Praktika
+		- Berufsvorbereitung
+		- Zentrale Prüfungen in Klasse 10
+		- Abschlüsse der Realschule
+	- Projekte
+		- Nachhaltigkeit im Schulalltag
+		- Schulprofil "Gesund lernen"
+		- Nachdenkraum-Projekt
+		- Streitschlichter-Projekt
+		- Gewaltpräventionsprojekt
+		- Vorlesewettbewerb
+		- Big Challenge
+		- DELF-Zertifikat
+		- Känguru der Mathematik
+		- Sponsorenlauf
+		- Togo-Projekt
+		- Sportveranstaltungen
+		- Andere Projekte
+	- Arbeitsgemeinschaften
+	- Unser Merkheft
+- Termine
+	- Terminvorschau
+	- Veranstaltungen in Düsseldorf
+- Schul-Check
+- Eltern
+	- Schulpflegschaft
+	- Klassenpflegschaft
+	- Fachkonferenzen
+	- Förderverein der Schule
+- Schüler
+	- Wir nehmen Einfluss!
+	- Wir wollen's wissen!
+	- Wir können was!
+	- Wir sind gut drauf! Meistens...
+- Lehrer
+	- Die Schulleitung informiert
+	- Der Lehrerrat informiert
+- Wichtige Links und Adressen!
+	- Üben & Lernen
+	- Arbeitsmaterialien zum Download
+	- Institutionen
+	- Schulbücher kaufen
+	- Links zur Ausbildungsplatzsuche
+	- Links rund um Schule und Familie
+- Meinungen

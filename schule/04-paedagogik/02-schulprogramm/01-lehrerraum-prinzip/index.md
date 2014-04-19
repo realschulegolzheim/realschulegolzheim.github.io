@@ -4,7 +4,9 @@ title:  "Das Lehrerraum-Prinzip"
 published: true
 ---
 
-# Die Realschule Golzheim hat im Jahr 2007 das Lehrerraumprinzip eingeführt.
+## Schüler in Bewegung
+
+Die Realschule Golzheim hat im Jahr 2007 das Lehrerraumprinzip eingeführt.
 
 Das bedeutet, dass die vorhandenen Unterrichtsräume einer Schule den Lehrkräften zugeordnet werden, sodass diese ihren Unterricht vor allem in einem Unterrichtsraum oder wenigen Unterrichtsräumen haben. 
 

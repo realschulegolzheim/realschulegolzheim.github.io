@@ -11,4 +11,4 @@ published: true
 - Wie erwerben Schüler die Kompetenzen, die sie dazu befähigen, 
 - sich in einer immer komplexeren Welt zurecht zu finden?
 - Wir haben uns konkrete Aufgaben gestellt, um unsere Schule zu gestalten. 
-- Lesen Sie selbst… unser Schulprogramm. 
+- Lesen Sie selbst unser [Schulprogramm](res/sp_amrs_11txt_2006.pdf). 

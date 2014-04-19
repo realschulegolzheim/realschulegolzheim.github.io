@@ -50,7 +50,14 @@ Im Rahmen unserer Kooperation mit dem Aquazoo Löbbecke Museum Düsseldorf möch
 Am 18. September 2003 vereinbarten die Agnes-Miegel-Realschule und der Aquazoo eine entsprechende Zusammenarbeit, von der beide Seiten profitieren. Besonders die naturwissenschaftlich orientierten Wahlpflichtkurse unserer Schule beteiligen sich aktiv an der Kooperation. 
 
 
-## Der Aquazoo bietet:
+Der Aquazoo bietet:
+
+- regelmäßige Unterrichtung von Schulklassen,
+- Bereitstellung von Unterrichtsmaterialien für den selbstständigen Unterricht im Aquazoo,
+- Unterstützung von Projekten und Unterricht im Aquazoo,
+- Bereitstellung von Plätzen für das Schülerpraktikum,
+- Nutzung der pädagogischen Sammlung und Räumlichkeiten des Aquazoos,
+- Freien Eintritt für Schüler und Lehrkräfte zu unterrichtlichen Zwecken.
 
 In diese Kooperation werden alle Klassenstufen mit speziellen Projekten einbezogen. Im Rahmen eines Schüleraustausches des 8fs Kurses konnten wir sogar bereits unsere französische Partnerschule Collège J.B. de la Quintinye, Noisy-le-Roi bei Paris integrieren. Unter Betreuung durch die Kollegin Mme Riehl aus unserer Partnerschule in Noisy und Herrn Maaßen haben Schüler Arbeitsbögen des Aquazoos zum Thema „Lungen- und Kiemenatmung“ ins Französische übersetzt.
 
@@ -58,7 +65,8 @@ Halbjährlich kommen Vertreter beider Einrichtungen zusammen, um sich über abge
 
 Außerdem werden zwischen Konrektor Herr Maaßen und Herrn Dr. Finke (Aquazoo) Themenbereiche für den Unterricht und besondere Veranstaltungen abgesprochen. 
 
-## Die Realschule Golzheim bietet:
+
+Die Realschule Golzheim bietet:
 
 - Erstellung von Unterrichtsmaterialien durch Lehrkräfte,
 - Erstellung von Materialien für den Freizeitbereich bzw. Ausstellungen durch Schüler oder Lehrkräfte,

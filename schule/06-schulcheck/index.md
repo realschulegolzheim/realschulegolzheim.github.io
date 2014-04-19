@@ -78,7 +78,6 @@ Die Einzelheiten sind in den Kurzberichten nachzulesen:
 - [Ergebnisprotokoll des AG-Treffens vom 28.6.2010](res/20100628-bericht-externe-kooperationspartner.pdf)
 - [Ergebnisprotokoll der neuen AG beim Workshop im Mai 2010](res/bericht-der-arbeitsgruppe-4-vom-workshop.pdf)
 
-
 <!--
 
 # Schul-Check - wie alles begann
@@ -127,5 +126,16 @@ Natürlich bleiben bei einem Workshop immer Themen und Ideen, die noch nicht auf
 Wer sich für eines der Themen stark machen will und es mit anderen Eltern, Schülern und Lehrern zusammen nach vorne bringen möchte, braucht nur Frau Rasche von der Steuergruppe eine Email an Schulcheck@web.de zu schicken. 
 
 Sie wird sich darum kümmern - versprochen!
+
+- AG "Fachunterricht/Individuelle Förderung
+	- Schwerpunktthema: "Bildungsoase"
+	- Ziele bzw. Schwerpunktsetzung der Arbeitsgruppe: Inhaltliche Konzeption eines ‚Lernzentrums’ in einem neu zu gestaltenden Raum (Bildungsoase) im Gebäude der Realschule Golzheim.
+	- Zeitplan/Verantwortlichkeiten: Frau Jansen, Herr Messink und Herr Müller erstellen gemeinsam mit der Schulleitung eine ‚Machbarkeitsstudie’ und kontaktieren im Anschluss daran die entsprechenden Entscheidungsträger bei der Stadt. Eine mögliche Räumlichkeit für das o.g. Lernzentrum wäre der ehemalige ‚Kulissenkeller’.
+- AG "Gebäude & Gelände"
+	- Der Bolzplatz: Der Bolzplatz hinter der Sporthalle wurde in der Projektwoche (Oktober 2010) durch einige Schüler unter Anleitung von Herrn Müller wieder freigeschnitten, ein Gärtner hat für die Abfuhr gesorgt. Wie der Bereich wieder in einen langfristig bespielbaren Zustand versetzt werden kann, wird nun beraten.  Eine Dokumentation des Zustandes vor und nach den Arbeiten wird im Zusammenhang mit der Erstellung eines Image-Videos der Schule erfolgen. Inzwischen liegt ein Antrag auf Instandsetzung des Bolzplatzes unserer Schulleitung beim Schulverwaltungsamt, das den Antrag unterstützt, seine Realisierung hängt allerdings von der Haushaltslage des Jahres 2011 ab. 
+	- Instandhaltung der Räume: Von Elternseite (Frau Steinberg) kam die Anregung, dass die Klassenpflegschaftsvorsitzenden mit den Eltern ihrer Klassen über Verbesserungs- und Verschönerungsmaßnahmen beraten könnten. Eine Jury könnte am Jahresende die ansprechendsten Ergebnisse prämieren... Der Vorschlag sei hiermit in die Runde geworfen!
+- AG "Schulleben/Miteinander in der Schule"
+	- Der Schulsanitätsdienst: Eine neue Lehrerin an unserer Schule, Frau Rödel, will und kann aufgrund ihrer fundierten Kenntnisse Schüler als Sanitäter ausbilden. Damit ergab sich eine ideale Verbindung zum Schul-Check-Vorhaben, den Schulsanitätsdienst wieder in Gang zu bringen. Eine erste Gelegenheit, das knappe Dutzend lernbegieriger Jung-Sanitäter vorzustellen, bot sich anlässlich des 100-jährigen Schuljubiläums. Ernsthafte Hilfestellungen waren dabei - zum Glück - nicht zu leisten, aber Besucher mit leichteren Beschwerden konnte bereits geholfen werden...! 
+	- Die Streitschlichter: Es wurde beim Workshop im Mai 2010 festgestellt, dass es besser wäre, wenn die Streitschlichter sich bekannter machen würden. Es findet zwar eine Vorstellung in jeder Klasse statt, aber das scheint nicht auszureichen. Insbesondere die jüngeren Jahrgangsstufen seien zu wenig informiert, an wen man sich in Problemfällen wenden kann. Vorgeschlagen wurde, eine Umfrage an alle Schüler zu starten, um eine Rückmeldung zu bekommen, was als gut empfunden wird und was zu verbessern wäre.
 
 -->
