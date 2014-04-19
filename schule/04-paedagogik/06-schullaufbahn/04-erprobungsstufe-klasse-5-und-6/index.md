@@ -4,7 +4,6 @@ title:  "Erprobungsstufe Klasse 5 und 6"
 published: true
 ---
 
-
 ## Orientierung in der weiterführenden Schule
 
 In der Sekundarstufe I bilden die Klassen 5 und 6 eine besondere pädagogische Einheit, die Erprobungsstufe. Anknüpfend an die Lernerfahrungen der Kinder in der Grundschule führen die Lehrerinnen und Lehrer die Kinder in diesen zwei Jahren an die Unterrichtsmethoden und Lernangebote der Realschule heran. 
@@ -30,3 +29,6 @@ Fester Bestandteil des Unterrichtsangebots sind die so genannten Ergänzungsstun
 
 Die Organisation des Unterrichts: In den Klassen 5 und 6 wird der Unterricht in der Regel im Klassenverband erteilt. Zum Ausgleich unterschiedlicher Lernvoraussetzungen kann in diesen Klassen zusätzlicher Förderunterricht eingerichtet werden. 
 (Quelle: Schulministerium NRW – Das Bildungsportal)
+
+
+http://www.schulministerium.nrw.de/BP/Schulrecht/FAQ/FAQ_APO/FAQ_APOSI/Schulformwechsel/index.html

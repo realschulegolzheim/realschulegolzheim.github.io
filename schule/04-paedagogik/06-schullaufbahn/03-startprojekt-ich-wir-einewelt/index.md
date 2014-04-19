@@ -5,7 +5,7 @@ published: true
 ---
 
 
-# Eine Malaktion am Rhein!
+## Eine Malaktion am Rhein!
 
 	...jeder wird da abgeholt, wo er steht...
 
@@ -24,7 +24,7 @@ published: true
 	Ich fühle... 
 
 
-# Wir malen uns Menschen und Erde aus!
+## Wir malen uns Menschen und Erde aus!
 
 In dieser Tagesaktion konnten unsere 5.-Klässler sich, ihre neuen Klassenkameraden, ihre Klassenlehrer und auch teilnehmende Eltern kennen lernen.
 
@@ -46,9 +46,9 @@ Einige sehr anschauliche Bilder zu dieser Malaktion finden Sie auch hier.
 
 Die nächste Aktion für die derzeitigen 5. Klassen findet in der zweiten Hälfte des Schuljahres 2012/2013 statt. 
 
-# Aktionskünstler Pulm im Landtag NRW
+## Aktionskünstler Pulm im Landtag NRW
 
 Aus Anlass des Weltkindertages 2007 entstand bei einer Malaktion von "World in Union" ein besonders schönes, etwa sieben Quadratmeter großes “WIU-Gemälde der Freundschaft und Verbundenheit”. Es wurde direkt vor dem Landtag in Düsseldorf von etwa 100 Kindern, Jugendlichen und Erwachsenen gemeinsam gemalt. Das hat so viel positive Resonanz erfahren, dass die WIU-Aktion in der Tagesschau zu sehen war und das Gemälde im Foyer des Landtags NRW ausgestellt wurde.
 
-Zu sehen ist das Werk auch unter www.wiu.org. 
+Zu sehen ist das Werk auch unter http://www.wiu.org/ . 
 

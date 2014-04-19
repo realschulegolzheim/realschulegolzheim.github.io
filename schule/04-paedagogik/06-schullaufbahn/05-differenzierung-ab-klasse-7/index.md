@@ -17,4 +17,4 @@ Der Unterricht im Wahlpflichtfach wird im Kursverband erteilt. Das bedeutet, das
 
 Im jeweiligen Schwerpunktfach werden schriftliche Arbeiten geschrieben. Die Realschule kommt mit diesen Angeboten den unterschiedlichen Interessen und Fähigkeiten ihrer Schülerinnen und Schüler entgegen. 
 
-Eine Übersicht über unser Differenzierungsangebot des Schuljahres 2013/2014 steht hier zum Download bereit. 
+Eine Übersicht über unser Differenzierungsangebot des Schuljahres 2013/2014 steht hier zum [Download](res/diff-7-kl-2013_14-handout.pdf) bereit. 

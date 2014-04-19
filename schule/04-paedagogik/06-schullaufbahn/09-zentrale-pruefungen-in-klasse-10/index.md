@@ -4,9 +4,7 @@ title:  "Zentrale Prüfungen in Klasse 10"
 published: true
 ---
 
-
-# Die "Reifeprüfung" am Ende der 10. Klasse
-
+## Die "Reifeprüfung" am Ende der 10. Klasse
 
 Ein Baustein zur Qualitätsentwicklung und Qualitätssicherung in Schulen sind Prüfungen am Ende der Klasse 10 mit zentral gestellten Aufgaben. Sie stellen keine Abschlussprüfungen dar. Denn die übrigen Leistungen während des Schuljahres behalten bei der Vergabe des Abschlusses weiterhin eine wesentliche Bedeutung.
 
