@@ -5,7 +5,7 @@ published: true
 ---
 
 
-### Beruf in Sicht!
+## Beruf in Sicht!
 
 In der entscheidenden Phase findet die Schullaufbahnberatung individuell statt. Folgende Maßnahmen sollen unsere Schüler bei der Berufswahl und Berufsvorbereitung unterstützen: 
 
@@ -49,9 +49,9 @@ Darüber hinaus haben wir sehr gute Kontakte zu weiterführenden Schulen (Fachob
 
 
 
-# Alles rund um die Berufsorientierung
+## Alles rund um die Berufsorientierung
 
-## BOB go: Das Berufsorientierungsbüro ist gestartet!
+### BOB go: Das Berufsorientierungsbüro ist gestartet!
 
 Das BOB ist ein Informations- und Beratungszentrum für Schülerinnen und Schüler der 8., 9. und 10. Klassen der Realschule Golzheim.
 
@@ -157,8 +157,6 @@ Neben dem umfassenden Informationsangebot und modernen Informationsplätzen mit 
 Bald ist es soweit:
 
 Unsere diesjährigen Azubi-Speed-Datings finden statt am 26. April in Velbert, Forum Niederberg, und am 14. Mai, Deutsche Oper am Rhein, Düsseldorf.
-
-
 
 Nähere Infos und einen entsprechenden Werbefilm gibt es auf der [Internetseite der Industrie- und Handelskammer Düsseldorf](http://www.duesseldorf.ihk.de/Ausbildung_Lehrstellen_Pruefungen/Ausbildungsplatzsuche/1782326/Azubi_Speed_Dating_2013.html) und auf [Facebook](https://www.facebook.com/Ausbildung.klarmachen). 
 
