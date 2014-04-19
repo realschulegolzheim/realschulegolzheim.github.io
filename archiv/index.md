@@ -4,7 +4,7 @@ title:  "Archiv"
 published: true
 ---
 
-# Unser "Archiv für Aktuelles" :)
+# Unser Archiv für "ehemals Aktuelles"
 
 - Die Schulpflegschaft (oberste Elternvertretung) versammelte sich am 23. Mai 2013.
 - Das Anmeldeverfahren für die neuen 5.-Klässler läuft - hier gibt es schon mal nützliche Kurz-Informationen für den Schulalltag zum Download.

@@ -22,3 +22,4 @@ Dabei kann zwischen verschiedenen Sportarten gewählt werden.
 ## Wir sind Tischtennismeister 2011!
 
 Die Realschule Golzheim belegte am 17. November 2011 bei der Stadtmeisterschaft der Düsseldorfer Schulen in der Wettkampfklasse II den 1. Platz!
+

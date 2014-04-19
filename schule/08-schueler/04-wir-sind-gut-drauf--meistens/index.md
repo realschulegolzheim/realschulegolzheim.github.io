@@ -20,7 +20,7 @@ Montags bis freitags beantworten wir Fragen innerhalb von 2 Arbeitstagen, am Woc
 
 ## Nummer gegen Kummer
 
-Schülertelefon bundesweit: Telefon 0800 111 0 333 Montag bis Freitag von 15.00 bis 17.00 Uhr (freecall – keine Telefongebühren)
+Schülertelefon bundesweit: Telefon [0800 111 0 333](tel:+498001110333) Montag bis Freitag von 15.00 bis 17.00 Uhr (freecall – keine Telefongebühren)
 
 Bei Problemen, die mit der Schule nichts zu tun haben, schau auf die Seite der [Jugendberatung](https://www.bke-beratung.de/User/). Hier gibt es Tipps und Sprechstunden im Einzelchat. 
 

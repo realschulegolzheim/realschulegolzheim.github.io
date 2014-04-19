@@ -86,7 +86,7 @@ Anmeldung
 
 Seit April trafen sich die Mitglieder der AG Externe Kooperationspartner und zwei engagierte Lehrer (Frau Brandl und Herr Gralke) regelmäßig, um die BerufeBörse 2013 zu planen. Als erstes wurden die Termine festgelegt, die von jetzt an dem unten stehenden Zeitstrahl entnommen werden können. Vieles ist aus den Vorjahren gut eingeführt, der eigentliche Aufwand besteht vor allem in der Suche nach internen und externen Referenten, die bis zu den Sommerferien erfoglreich abgeschlossen werden konnte.
 
-### BerufeBörse 2012 mit erfreulicher Resonanz
+## BerufeBörse 2012 mit erfreulicher Resonanz
 
 Am 11.9.2012 veranstaltete die Städtische Realschule Golzheim in ihrer Aula zum zweiten Mal diese Informationsveranstaltung für alle Schülerinnen und Schüler der 9. Klassen
 
@@ -110,8 +110,6 @@ I. Rasche
 AG Externe Kooperationspartner der
 Städtischen Realschule Golzheim 
 
-
-
 ## BIZ - Berufsinformationszentrum der ARGE
 
 Das BiZ ist die Adresse für alle, die vor einer beruflichen Entscheidung stehen oder einen Arbeits- oder Ausbildungplatz suchen. Hier finden Sie die Informationen, auf die es ankommt:
@@ -125,14 +123,16 @@ Das BiZ ist die Adresse für alle, die vor einer beruflichen Entscheidung stehen
 
 Im BiZ können Sie sich ausführlich informieren und nach passenden Stellen- und Weiterbildungsangeboten suchen. Natürlich kostenlos und ohne Anmeldung.
 
-BiZ - für wen?
+### BiZ - für wen?
+
 Nur wer sich umfassend informiert, kann eine gute Berufsentscheidung treffen. Das gilt für Schüler, Studierende und Hochschulabsolventen, aber genauso für Arbeitnehmer, die an eine Fortbildung oder Umschulung denken oder eine neue Arbeitsstelle suchen. Darüber hinaus ist das BiZ wichtig für alle, die Jugendliche und Erwachsene bei beruflichen Entscheidungen unterstützen:
 
 - Lehrerinnen und Lehrer
 - Eltern und Freunde
 - Beraterinnen und Berater
 
-BiZ - was bietet es?
+### BiZ - was bietet es?
+
 Umfassendes Informationsmaterial steht kostenlos zur Verfügung und kann individuell genutzt werden. Bei Fragen helfen Mitarbeiterinnen und Mitarbeiter des BiZ weiter.
 Neben dem umfassenden Informationsangebot und modernen Informationsplätzen mit Internetzugriff finden in den Gruppengräumen des BiZ eine Fülle von Veranstaltungen statt:
 
@@ -141,7 +141,14 @@ Neben dem umfassenden Informationsangebot und modernen Informationsplätzen mit 
 - Veranstaltungen für Schulklassen, Eltern, Lehrerinnen und Lehrer
 - Diskussionsrunden
 
-Unsere Öffnungszeiten: Mo bis Mi 7.30 Uhr bis 16.30 Uhr, Do 7.30 Uhr bis 18.00 Uhr, Fr 7.30 Uhr bis 12.30 Uhr 
+### Unsere Öffnungszeiten
+
+- Mo bis Mi 7.30 Uhr bis 16.30 Uhr
+- Do 7.30 Uhr bis 18.00 Uhr
+- Fr 7.30 Uhr bis 12.30 Uhr 
+
+
+
 
 ## Berufe-Messen
 
@@ -149,10 +156,11 @@ Unsere Öffnungszeiten: Mo bis Mi 7.30 Uhr bis 16.30 Uhr, Do 7.30 Uhr bis 18.00 
 
 Bald ist es soweit:
 
-Unsere diesjährigen Azubi-Speed-Datings finden statt am 26. April in Velbert, Forum Niederberg, und am 14. Mai, Deutsche Oper
-am Rhein, Düsseldorf.
+Unsere diesjährigen Azubi-Speed-Datings finden statt am 26. April in Velbert, Forum Niederberg, und am 14. Mai, Deutsche Oper am Rhein, Düsseldorf.
 
-Nähere Infos und einen entsprechenden Werbefilm gibt es auf der Internetseite der Industrie- und Handelskammer Düsseldorf und auf Facebook. 
+
+
+Nähere Infos und einen entsprechenden Werbefilm gibt es auf der [Internetseite der Industrie- und Handelskammer Düsseldorf](http://www.duesseldorf.ihk.de/Ausbildung_Lehrstellen_Pruefungen/Ausbildungsplatzsuche/1782326/Azubi_Speed_Dating_2013.html) und auf [Facebook](https://www.facebook.com/Ausbildung.klarmachen). 
 
 <!--
 ### "HandSchlag" - Berufe im Handwerk
@@ -225,7 +233,7 @@ Weitere Infos über die Ausbildung bei der Rheinbahn gibt es hier.
 
 Am Montag, den 5.11.2012, findet von 18.30 bis 20.30 Uhr im Weiterbildungszentrum am Hauptbahnhof (Bertha-von-Suttner-Platz 1, Erdgeschoss, Saal I und II) ein Info-Abend über weiterführende Schulen und Berufsausbildung statt. Angesprochen werden Schülerinnen und Schüler, die im Jahr 2013 die Schule verlassen werden. Der Eintritt ist frei.
 
-Wer sind Ihre Gesprächspartner?
+#### Wer sind Ihre Gesprächspartner?
 
 Bei schulischen Fragen die Pädagoginnen und Pädagogen der weiterführenden Schulen. Jede Einrichtung hat im Saal einen Info-Stand:
 
@@ -241,11 +249,13 @@ Bei beruflichen Fragen die Mitarbeiterinnen und Mitarbeiter folgender Einrichtun
 - Stadt Düsseldorf (Personalamt - Team Ausbildung)
 - ZeTT-Jugendberatung: Eurodesk-Auslandsaufenthalte
 
-Was tun, wenn Sie noch unentschlossen sind?
+#### Was tun, wenn Sie noch unentschlossen sind?
 
 Am Saaleingang befindet sich der Stand der Bildungsberatung. Hier können Sie alles fragen, was Sie bewegt. Hier sagt man Ihnen, welche Möglichkeiten Sie haben und wo Sie im Saal die Ansprechpartner finden.
 
-Wie ist der Abend organisiert? Sie kommen allein, mit Ihren Freundinnen, Freunden oder Eltern. Es gibt keinen festen Termin. In der Zeit von 18.30 Uhr bis 20.30 Uhr können Sie kommen und gehen, wie es Ihnen passt.
+#### Wie ist der Abend organisiert? 
+
+Sie kommen allein, mit Ihren Freundinnen, Freunden oder Eltern. Es gibt keinen festen Termin. In der Zeit von 18.30 Uhr bis 20.30 Uhr können Sie kommen und gehen, wie es Ihnen passt.
 
 Eine Veranstaltung der Bildungsberatung in Düsseldorf (Tel. 0211-89-93499, bildungsberatung@duesseldorf.de) 
 
@@ -255,16 +265,14 @@ Im Januar 2012 erfolgte eine umfangreiche Information der 10. Klassen über die 
 
 Sehr kompetente LehrerInnen der vier Düsseldorfer Berufskollegs stellten unseren 10. Klassen in der Aula die Schwerpunkte der Unterrichtsmöglichkeiten an den Berufskollegs vor:
 
+- [BK Bachstraße (Wirtschaftsgymnasium)](http://bkb-duesseldorf.de/) 
+- [BK Lore Lorentz (Naturw./technische Assistenten)](http://www.lore-lorentz-schule.de/index2.html)
+- [BK Leo Statz (Informationstechn. Assistent)](http://www.leo-statz-berufskolleg.de/)
+- [BK Walter Eucken ((Höhere) Handelsschule)](http://www.webk.de/)
+
+Anschließend war Gelegenheit für persönliche Nachfragen in getrennten, kleineren Gruppen, wovon unsere SchülerInnen regen Gebrauch gemacht haben. Das Angebot von eintägigen Hospitationen an den Berufskollegs haben bereits mehrere SchülerInnen angenommen und Termine vereinbart. 
+
 - [Übersicht der Berufskollegs in Düsseldorf](http://www.duesseldorf.de/schulen/pdf/schullaufbahn/bk_2011_12.pdf)
-	- [BK Bachstraße (Wirtschaftsgymnasium)](http://bkb-duesseldorf.de/) 
-	- [BK Lore Lorentz (Naturw./technische Assistenten)](http://www.lore-lorentz-schule.de/index2.html)
-	- [BK Leo Statz (Informationstechn. Assistent)](http://www.leo-statz-berufskolleg.de/)
-	- [BK Walter Eucken ((Höhere) Handelsschule)](http://www.webk.de/)
-
-Anschließend war Gelegenheit für persönliche Nachfragen in getrennten, kleineren Gruppen, wovon unsere SchülerInnen regen Gebrauch gemacht haben.
-
-Das Angebot von eintägigen Hospitationen an den Berufskollegs haben bereits mehrere SchülerInnen angenommen und Termine vereinbart. 
-
 
 
 ## Links zur Berufsorientierung
