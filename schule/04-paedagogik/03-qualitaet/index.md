@@ -4,6 +4,7 @@ title:  "Qualität - mehr als ein Modewort"
 published: true
 ---
 
+<!-- 04-schule\preise-und-zertifikate -->
 
 # ...Füreinander da sein. Miteinander lernen.
 
@@ -12,9 +13,7 @@ Weitere Infos gibt es hier.
 
 Anlässlich des Tages der offenen Tür im Dezember 2012 soll das buddY-Projekt näher vorgestellt werden.
 
-In dieser Präsentation sind die Ergebnisse eines Projektes in der Klasse 7b zu sehen, unten ein paar Momentaufnahmen im Prozess. 
-
-
+In [dieser Präsentation](res/rsgolzheimbuddy.pdf) sind die Ergebnisse eines Projektes in der Klasse 7b zu sehen, unten ein paar Momentaufnahmen im Prozess. 
 
 
 ## Fortbildungen
@@ -28,7 +27,7 @@ Darüber hinaus finden an verschiedenen Terminen im Schuljahr Einzel- und Fachfo
 
 ## Auszeichnungen für sportliche Erfolge
 
-Diese Pokale und Auszeichnungen zeigen die vielfachen sportlichen Erfolge der Klassen und Mannschaften u.a. in den Bereichen Fußball und Handball sowie Flagfootball (die Agnes-Miegel-Hawks wurden im Jahr 2002 Vize-Europameister mit Teilnahme an der Weltmeisterschaft in Mexico!). Näheres über Flagfootball finden Sie hier. 
+Diese Pokale und Auszeichnungen zeigen die vielfachen sportlichen Erfolge der Klassen und Mannschaften u.a. in den Bereichen Fußball und Handball sowie Flagfootball (die Agnes-Miegel-Hawks wurden im Jahr 2002 Vize-Europameister mit Teilnahme an der Weltmeisterschaft in Mexico!). Näheres über Flagfootball finden Sie [hier](http://www.fslg.de/). 
 
 Es zeichnen sich Bemühungen ab, im Zuge einer Wiederbelebung der deutschen Football-Liga auch eine neue Schulmannschaft der Realschule Golzheim auf die Beine zu stellen.
 
@@ -40,5 +39,5 @@ Das Düsseldorfer Projekt "Nachhaltigkeits-Audit für Schulen" wurde vom Unesco-
 
 Die am Düsseldorfer Agenda-Netzwerk beteiligten Schulen sind die Katholische Grundschule Essener Straße, Fritz-Henkel-Schule, Gemeinschaftshauptschule Melanchthonstraße, Theodor-Litt-Realschule, Agnes-Miegel-Realschule, Hulda-Pankok-Gesamtschule, Dieter-Forte-Gesamtschule, International School Düsseldorf, Comenius-Gymnasium, Geschwister-Scholl-Gymnasium, Marie-Curie-Gymnasium, Theodor-Fliedner-Gymnasium, Lessing Gymnasium/Berufskolleg, Max-Weber-Berufskolleg, Walter-Eucken-Berufskolleg, Leo-Statz-Berufskolleg, Lore-Lorenz-Schule und das Berufskolleg Neuss, Weingartstraße.
 
-Weitere Informationen zum Öko-/Nachhaltigkeits-Audit an Schulen gibt es auf den Internetseiten der Landeshauptstadt Düsseldorf. 
+Weitere Informationen zum Öko-/Nachhaltigkeits-Audit an Schulen gibt es auf den [Internetseiten](http://www.duesseldorf.de/agenda21/projekte/projekt_16.shtml) der Landeshauptstadt Düsseldorf. 
 
