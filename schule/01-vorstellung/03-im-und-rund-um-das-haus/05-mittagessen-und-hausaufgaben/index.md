@@ -6,9 +6,9 @@ published: true
 
 ## Mittagessen
 
-Wir sind dazu verpflichtet, nach der 6. Unterrichtsstunde eine Mittagspause für die Schüler einzurichten, die danach noch Unterricht oder AG's besuchen.
+Wir sind dazu verpflichtet, nach der 4. <!-- TODO Check: Ist das nicht ab der 4. Stunde, statt der 6. Stunde? --> Unterrichtsstunde eine Mittagspause für die Schüler einzurichten, die danach noch Unterricht oder AG's besuchen.
 
-Sollte Ihr Kind eine 7. oder 8. Stunde haben, können Sie entscheiden, ob Ihr Kind die Mittagspause in der Schule verbringt oder die Schule bzw. das Schulgelände verlassen darf. Wichtig: Sollten Sie Ihrem Kind erlauben, die Mittagspause außerhalb der Schule zu verbringen, muss Ihr Kind die Schule auch verlassen (bei jedem Wetter!). Wir als Schule müssen Aufsichtspersonal stellen, das wir mit einer Abfrage ermitteln. Wir haben kein Personal für Kinder, die nur sporadisch an der Mittagspause teilnehmen möchten. Überlegen Sie Ihre Enscheidung gründlich. In der Zeit der Mittagspause werden Aktivitäten für die Schüler und Schülerinnen angeboten.
+Sollte Ihr Kind eine 5. oder 6. Stunde haben, können Sie entscheiden, ob Ihr Kind die Mittagspause in der Schule verbringt oder die Schule bzw. das Schulgelände verlassen darf. Wichtig: Sollten Sie Ihrem Kind erlauben, die Mittagspause außerhalb der Schule zu verbringen, muss Ihr Kind die Schule auch verlassen (bei jedem Wetter!). Wir als Schule müssen Aufsichtspersonal stellen, das wir mit einer Abfrage ermitteln. Wir haben kein Personal für Kinder, die nur sporadisch an der Mittagspause teilnehmen möchten. Überlegen Sie Ihre Enscheidung gründlich. In der Zeit der Mittagspause werden Aktivitäten für die Schüler und Schülerinnen angeboten.
 
 Die Küche konnte inzwischen in Betrieb genommen werden. In der 1. Etage, Raum 1.06, 1.08, 1.09, 1.30 und 1.31 sind die Essensausgabe und der Speiseraum angesiedelt. 
 

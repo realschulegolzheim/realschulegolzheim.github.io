@@ -44,3 +44,16 @@ Seit dem Jahr 1994 verfügen wir über eine hochmoderne "Dreifach"-Sporthalle. D
 Die Sporthalle wird vormittags von unserer Schule genutzt, nachmittags vom benachbarten Gymnasium, und in den Abendstunden sind dort Sportvereine mit ihren Angeboten zu Gast. 
 
 Für den Schwimmunterricht ab Klasse 6 kooperieren wir mit dem Städtischen Schwimmbad Unterrat, wo wir feste Übungszeiten haben. Eine [Beschreibung und Anfahrtskizze finden Sie hier](http://www.baeder-duesseldorf.de/baeder-und-saunen/hallenbaeder-mit-sauna/gartenhallenbad-unterrath/anfahrt-und-kontakt/). Die Kinder werden mit einem Schulbus zum Schwimmbad gebracht und ggf. von dort wieder abgeholt. 
+
+## Ein Gelände - zwei Schulen
+
+Das Georg-Büchner-Gymnasium befindet sich im gleichen Schulgebäude. Wir teilen uns die Aula und die Sporthalle. Viele unserer Schüler (zwischen 40% und 60%) wechseln nach der Klasse 10 auf das Gymnasium, um das Abitur zu machen. 
+
+	Georg-Büchner-Gymnasium
+	Städtisches Aufbaugymnasium
+	Felix-Klein-Straße 3
+	40474 Düsseldorf
+	http://www.gbg-duesseldorf.de/
+	http://www.georg-buechner-aufbaugymnasium.de/
+
+
