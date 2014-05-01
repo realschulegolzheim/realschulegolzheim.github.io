@@ -13,3 +13,13 @@ published: true
 - Hauptpunkte der Schulhomepage
 	- Aktuelles
 	- Schulalltag
+- Pressespiegel löschen
+- gibt es das Buddy-Projekt noch?
+- Links in der Berufsorientierung zu Stadtwerken etc...
+- Schulgeschichte aus der Pädagogik raus nahc "Wir stellen uns vor"
+
+# Neue Struktur
+
+- 
+
+
