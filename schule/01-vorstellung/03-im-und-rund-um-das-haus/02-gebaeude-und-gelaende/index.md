@@ -7,7 +7,9 @@ weight: 13.2
 
 ## Unser Gebäude
 
-Unser Schulgebäude umfasst unter anderem
+Das Gebäude auf der Tersteegenstraße wurde um das Jahr 1960 erbaut, es wurde 1994 umgebaut und renoviert. 
+
+Unser Schulgebäude umfasst:
 
 - 22 Unterrichtsräume
 - Fachräume für Kunst, Musik und Textilgestaltung
@@ -17,13 +19,16 @@ Unser Schulgebäude umfasst unter anderem
 - Dreifachsporthalle
 - Aula mit mehr als 400 Sitzplätzen 
 
-Das Gebäude auf der Tersteegenstraße wurde um das Jahr 1960 erbaut, es wurde 1994 umgebaut und renoviert. 
-
 ## Unser Gelände
 
 Der Schulhof wurde im Rahmen der Öko-Audit-Prozesses 2003/2004 überplant und teilweise umgestaltet. Spielgeräte und ein Spielecontainer sind im Jahr 2007 aufgebaut worden.
 
 Die Spielcontainer werden in jeder Pause (außer im Winter) geöffnet. Einige Schüler aus den 9. und 10. Klassen führen die Ausgabe der Spielgeräte, d.h. jeder Schüler, der sich ein Spielgerät ausleihen möchte, gibt als Pfand seinen Schülerausweis ab. Dann wird der Name und die Klasse des Schülers/der Schülerin nochmal aufgeschrieben. Die Schülerausweise werden in einer Box alphabetisch geordnet. Sobald der Schüler/die Schülerin das Spielgerät wieder abgeben möchte, spätestens zum Ende der Pause, wird der Schülerausweis wieder ausgegeben und der Name auf der Liste gestrichen. Wird ein Spielgerät nicht abgegeben, leiten die Spielcontainerleiter den Namen der/desjenigen an die Schulleitung weiter. Ausleihbar sind Springseile, Bälle, Tischtennisschläger, Stelzen, Pogo Stiks (Hüpfgeräte) und Rollbretter. 
+
+## Der Vertretungsplan
+
+Im Eingangsbereich (zwischen den beiden Haupttüren) befindet sich linkerhand der Vetretungsplan. Dieser sollte von den Schülern täglich eingesehen werden, um Änderungen im Stundenplan rechtzeitig mitzubekommen.  
+
 ## Der Schul-Kiosk
 
 Auf dem Schulgelände befindet sich der sehr beliebte Kiosk, an dem sich die SchülerInnen mit belegten Brötchen, kalten Getränken und dringend benötigtem Schulmaterial versorgen können. Der Kiosk ist in der ersten und zweiten großen Pause geöffnet. 
