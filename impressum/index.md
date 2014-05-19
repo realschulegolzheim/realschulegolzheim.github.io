@@ -20,7 +20,7 @@ published: true
 
 	Mo-Do  07:30 - 13:30 Uhr
 	Fr     07:30 - 12:30 Uhr
-	Telefon: [(0211) 89-94029](+492118994029)
+	Telefon: [(0211) 89-94029](tel:+492118994029)
 
 ## Schulträger (Diensteanbieter im Sinne des TDG/MDStV):
 
