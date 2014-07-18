@@ -18,7 +18,6 @@ Für alle Fragen zur Wahl des Düsseldorfer Jugendrates steht die Geschäftsstel
 
 > Geschäftsstelle des Jugendrates
 > c/o Jugendamt Düsseldorf (Amt 51)
-> Joachim Möntmann, Michael Hein
 > Willi-Becker-Allee 7, 40227 Düsseldorf
 >
 > Telefon: (0211) 89-92594 oder (0211) 89-98931

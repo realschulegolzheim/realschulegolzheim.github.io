@@ -4,7 +4,7 @@ title:  "TODO"
 published: true
 ---
 
-- Pro Klasse (5., 6., 7. etc ) eine Seite mit den Speziellen Sachen, sowie eine für Schulwechsler
+- Pro Klasse (4., 5., 6., 7. etc ) eine Seite mit den Speziellen Sachen, sowie eine für Schulwechsler
 	- 5. Klasse z.b. dass der Vertretunsgplan jeden Tag vor dem nach Hause gehen einmal kurz angesehen wird. 
 	- Spindangebot verschieben unter 5. Klasse
 	- Langer Nachmittag in die 5. Klasse 
@@ -19,7 +19,5 @@ published: true
 - Schulgeschichte aus der Pädagogik raus nahc "Wir stellen uns vor"
 
 # Neue Struktur
-
-- 
 
 
