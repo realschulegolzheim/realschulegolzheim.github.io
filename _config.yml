@@ -25,4 +25,4 @@ schule:      /schule
 #url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2
 url:         "/"
 
-exclude:     ["node_modules"]
+exclude:     ["node_modules", ".ftppass", ".ftpauth"]
