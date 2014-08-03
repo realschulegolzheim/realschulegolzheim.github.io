@@ -1,6 +1,8 @@
 
 # Aktuelle Termine
 
+<!--
+
 ## Anmeldetermine 2014 der neuen Schüler/innen der 5. Klassen:
 
 - 5.März 2014 zwischen 10 - 13 Uhr und 16 - 19 Uhr
@@ -15,4 +17,4 @@
 - 04. März 2014 und 
 - 30. Mai 2014
 
-
+-->
