@@ -6,6 +6,7 @@
     "grunt-contrib-clean": "~0.6.0",
     "grunt-ftp-deploy": "^0.1.4",
     "grunt-ftp-push": "^0.2.4",
+    "grunt-ftpush": "^0.3.3",
     "grunt-jekyll": "^0.4.2"
   }
 }

@@ -1,63 +1,41 @@
 'use strict';
-
 module.exports = function (grunt) {
 	grunt.initConfig({
-		pkg: grunt.file.readJSON("package.json"),
-		clean: {
+		'pkg': grunt.file.readJSON("package.json"),
+		'clean': {
 			output: [ '_site/*']
 		},
 
-		jekyll: {
+		'jekyll': {
 			dist: {
 				options: {
 					config: '_config.yml'
 				}
 			}
 		},
-
-		ftp_push: {
-			prod: {
-				options: {
-					authKey: "schulenduesseldorfde",
-					host: "schulen.duesseldorf.de",
-					dest: "/httpdocs/v2",
-					port: 21
-				},
-				files: [
-					{
-						expand: true,
-						cwd: '_site',
-						src: [
-							"**"
-						]
-					}
-				]
-			}
-		},
-
-		'ftp-deploy': {
+		'ftpush': {
 			prod: {
 				auth: {
 					host: 'schulen.duesseldorf.de',
 					port: 21,
-					authKey: 'schulenduesseldorfde',
-					authPath : ".ftpauth"
+					authKey: 'schulenduesseldorfde'
 				},
 				src: '_site',
 				dest: '/httpdocs/v2',
-				exclusions: ['path/to/source/folder/**/.DS_Store', 'path/to/source/folder/**/Thumbs.db', 'path/to/dist/tmp']
+				exclusions: [
+					'path/to/source/folder/**/.DS_Store', 
+					'path/to/source/folder/**/Thumbs.db', 
+					'path/to/dist/tmp'
+				]
 			}
-		}
-
+		},
 	});
 
 	grunt.loadNpmTasks("grunt-contrib-clean");
 	grunt.loadNpmTasks("grunt-jekyll");
-	grunt.loadNpmTasks('grunt-ftp-push');
-	grunt.loadNpmTasks('grunt-ftp-deploy');
+	grunt.loadNpmTasks("grunt-ftp-deploy");
 
-	grunt.registerTask("default", ['clean']);
-	grunt.registerTask("jekyll", ['jekyll:dist']);
-	/*grunt.registerTask("f", ['ftp_push:prod']);*/
-	grunt.registerTask("ftp", ['ftp-deploy:prod']);
+	grunt.registerTask("default", ["clean"]);
+	grunt.registerTask("jekyll", ["jekyll:dist"]);
+	grunt.registerTask("ftp", ["ftpush:prod"]);
 };

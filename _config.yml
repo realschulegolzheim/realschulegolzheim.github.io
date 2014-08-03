@@ -5,7 +5,7 @@ host:         127.0.0.1
 
 safe:          true
 lsi:           false
-markdown: redcarpet
+markdown:      redcarpet
 
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
@@ -22,7 +22,7 @@ blog:        /aktuell
 permalink:   /aktuell/:year/:month/:day/:title/
 schule:      /schule
 
-#url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2
-url:         "/"
+url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2/
+# url:         "/"
 
 exclude:     ["node_modules", ".ftppass", ".ftpauth"]
