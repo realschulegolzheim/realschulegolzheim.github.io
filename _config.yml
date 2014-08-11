@@ -22,7 +22,7 @@ blog:        /aktuell
 permalink:   /aktuell/:year/:month/:day/:title/
 schule:      /schule
 
-url:         http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2/
-# url:         "/"
+# url:         "http://www.schulen.duesseldorf.de/rs-tersteegenstr/v2"
+url:         ""
 
-exclude:     ["node_modules", ".ftppass", ".ftpauth"]
+exclude:     ["node_modules", ".ftppass", ".ftpauth", "Gemfile", "package.json", "Gruntfile.js", "bower.json", "serve.cmd", "npm-debug.log" ]
