@@ -14,8 +14,7 @@ Die Küche konnte inzwischen in Betrieb genommen werden. In der 1. Etage, Raum 1
 
 Fragen zur Organisation und Abwicklung der Über-Mittag-Betreuung richten Sie bitte an 
 
-	Herrn Möntmann 
-	Jugendclub Ammerweg
+	Jugendfreizeiteinrichtung "Ammerweg"
 	Telefon: 0211 / 41 47 47 
 
 ## Hausaufgabenbetreuung
