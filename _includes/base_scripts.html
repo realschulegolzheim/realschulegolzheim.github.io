@@ -9,11 +9,16 @@
 <script>if(typeof($.fn.modal) === 'undefined') {document.write('<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"><\/script>')}</script>
 -->
 
-<script src="/bower_components/angular/angular.min.js"></script>
-<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="/js/myapp.js"></script>
+<script>
+	var golzheim_site_url = "{{site.url}}"; 
+</script>
 
 
+
+<script src="{{site.url}}bower_components/jquery/dist/jquery.min.js"></script>
+<script src="{{site.url}}bower_components/angular/angular.min.js"></script>
+<script src="{{site.url}}bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="{{site.url}}app/navigation.controller.js"></script>
 <script>
 $('.dropdown-toggle').click(function() {
     var location = $(this).attr('href');

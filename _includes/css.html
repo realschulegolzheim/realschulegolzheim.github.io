@@ -19,4 +19,19 @@
 	        display: block;
 	    }
 	}
+
+
+
+	/* Für die Seiten-Navigation */
+    @media (min-width: 768px) {
+        .sidebar-nav .navbar .navbar-collapse { padding: 0; max-height: none; }
+        .sidebar-nav .navbar ul { float: none; }
+        .sidebar-nav .navbar ul:not { display: block; }
+        .sidebar-nav .navbar li { float: none; display: block; }
+        .sidebar-nav .navbar li a { padding-top: 12px; padding-bottom: 12px; }
+    }
+    @media (min-width: 768px) { /* uncomment if you would like the menu to be fixed */ /* .navbar { position: fixed; width: 170px; z-index: 2; } */ }
+    @media (min-width: 992px) { .sidebar-nav { width: 212px; } }
+    @media (min-width: 1200px) { .sidebar-nav { width: 262px; } }
+    .sidebar-nav .navbar-header { float: none; }
 </style>
