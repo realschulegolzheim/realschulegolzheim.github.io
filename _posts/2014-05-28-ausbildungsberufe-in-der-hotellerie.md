@@ -12,7 +12,7 @@ In Zusammenarbeit mit dem Hotel HILTON DÜSSELDORF bekamen die Schülerinnen und
 Die Ausbildungsabteilung des HILTON DÜSSELDORF wird der Schule auch in Zukunft beratend zur Seite stehen, z.B. auf der nächsten BerufeBörse im   Herbst 2014, bei Betriebserkundungen oder im Betriebspraktikum.
 
 
-<p><img src="{{site.url}}/pics/2014/05/2014-05-28-1.jpg"></p>
-<p><img src="{{site.url}}/pics/2014/05/2014-05-28-2.jpg"></p>
+<p><img src="{{ site.url }}/pics/2014/05/2014-05-28-1.jpg"></p>
+<p><img src="{{ site.url }}/pics/2014/05/2014-05-28-2.jpg"></p>
 
 Fotos: U.Komada

@@ -24,7 +24,7 @@
 
         var offline = true;
         if (offline) {
-            $scope.data = getNavigationData(siteUrl);
+            $scope.data = getNavigationData(siteUrl + "/");
             SetActiveClassAttribute($scope.data, $scope.locationwindow);
         } else {
             $http.get('api/Navigation').success(function (data) {
