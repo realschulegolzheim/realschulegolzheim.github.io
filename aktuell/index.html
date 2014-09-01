@@ -3,6 +3,12 @@ layout: blog
 title: "Realschule Golzheim - Blog"
 ---
 
+<!--
+{% for post in site.posts %}
+- [<b>{{post.title}}</b> ({% include german_date.html post_date=post.date %})]({{post.url}})
+{% endfor %}
+-->
+
 {% for post in site.posts %}
 <div class="post">
   <div class="post-info">

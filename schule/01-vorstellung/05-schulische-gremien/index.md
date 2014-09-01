@@ -12,7 +12,6 @@ Für den Einen tägliche Routine - für den Anderen ein Buch mit 7 Siegeln: die 
 
 <img src="img/organigramm-maaen-2-als-bild.jpg" />
 
-
 ## Übersicht der schulischen Gremien
 
 Die Zusammenarbeit in der Schule ist in Konferenzen organisiert. Die Beratungen sind nicht öffentlich. 
