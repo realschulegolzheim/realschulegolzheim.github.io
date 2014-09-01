@@ -1,6 +1,6 @@
 ---
 layout: schule
-title:  "Aktuell/Wichtig!"
+title:  "Aktuelles"
 published: true
 weight: 0
 ---

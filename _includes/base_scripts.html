@@ -23,4 +23,11 @@ $('.dropdown-toggle').click(function() {
     window.location.href = location;
     return false;
 });
+
+
+$(function() {
+  $('.collapse.show-footer').on('show', function () {
+    $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+  });
+});
 </script>

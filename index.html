@@ -6,3 +6,15 @@ title: "Homepage der Realschule D&uuml;sseldorf Golzheim"
 <div class="primary-row">
   <h2>{{ site.schulname }}</h2>
 </div>
+
+
+{% capture x %}{% include aktuelle_termine.md %}{% endcapture %}{{ x | markdownify }}
+
+
+
+<div class="blog-index">  
+	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	<h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></h1>
+	<div class="entry-content">{{ content }}</div>
+</div>
