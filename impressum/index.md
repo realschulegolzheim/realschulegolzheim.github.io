@@ -14,7 +14,7 @@ published: true
 
 ## Kontakt zur Schule
 
-	Telefon: [(0211) 89-94029](tel:+492118994029)
+	Telefon: <a href="tel:+492118994029">(0211) 89-94029</a>
 	Telefax: [(0211) 89-29228](tel:+492118929228)
 	E-Mail:    rs.tersteegenstr@duesseldorf.de / sekretariat.tersteegenstr-rs@duesseldorf.de
 
