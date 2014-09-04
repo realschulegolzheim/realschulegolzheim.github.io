@@ -17,12 +17,13 @@ published: true
 	Telefon: (0211) 89-94029
 	Telefax: (0211) 89-29228
 	E-Mail:  rs.tersteegenstr@duesseldorf.de
-	         sekretariat.tersteegenstr-rs@duesseldorf.de
 
-## Sekretariat
+## Öffnungszeiten Sekretariat
 
 	Mo-Do  07:30 - 13:30 Uhr
 	Fr     07:30 - 12:30 Uhr
+	
+	sekretariat.tersteegenstr-rs@duesseldorf.de
 
 ## *Schulträger* (Dienstanbieter für die Webseite) 
 
