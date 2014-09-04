@@ -14,9 +14,10 @@ published: true
 
 ## Kontakt zur Schule
 
-	Telefon: <a href="tel:+492118994029">(0211) 89-94029</a>
-	Telefax: [(0211) 89-29228](tel:+492118929228)
-	E-Mail:    rs.tersteegenstr@duesseldorf.de / sekretariat.tersteegenstr-rs@duesseldorf.de
+	Telefon: (0211) 89-94029
+	Telefax: (0211) 89-29228
+	E-Mail:  rs.tersteegenstr@duesseldorf.de
+	         sekretariat.tersteegenstr-rs@duesseldorf.de
 
 ## Sekretariat
 
@@ -35,5 +36,5 @@ published: true
 	Schulverwaltungsamt 
 	40/16 eSchool 
 	Udo Kempers
-	E-Mail: [eschool@duesseldorf.de](mailto:eschool@duesseldorf.de)
+	E-Mail: eschool@duesseldorf.de
 
